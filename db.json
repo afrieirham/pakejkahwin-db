@@ -2,7 +2,7 @@
   "services": [
     {
       "id": 1,
-      "name": "Urban Park Hall @ LKSA",
+      "name": "Urban Park Hall",
       "location": {
         "district": "Shah Alam",
         "state": "Selangor"
