@@ -1,9 +1,184 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "services": [
+    {
+      "id": 1,
+      "name": "Urban Park Hall @ LKSA",
+      "location": {
+        "district": "Shah Alam",
+        "state": "Selangor"
+      },
+      "type": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F314825016_644859110439104_9041130988362878036_n.jpg?alt=media&token=8add9dc9-82ef-422c-849f-64e911a620bb",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/urbanparkhall.my/"
+        },
+        {
+          "name": "whatsapp",
+          "link": "https://wa.me/601139940677"
+        },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/7Zjpf2P63JogJwiY6"
+        },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@urbanparkhall"
+        },
+        {
+          "name": "website",
+          "link": "https://linktr.ee/urbanparkhall"
+        },
+        {
+          "name": "facebook",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Putra Glass Hall",
+      "location": {
+        "district": "Shah Alam",
+        "state": "Selangor"
+      },
+      "type": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F311974477_813982139714877_385924351617229575_n.jpg?alt=media&token=fd2049f4-5089-4986-8343-472bfbf8c253",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/putraglasshallevents/"
+        },
+        {
+          "name": "whatsapp",
+          "link": "https://wa.me/60173603985"
+        },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/Q6GNUfQkCrWGSjMb6"
+        },
+        {
+          "name": "tiktok",
+          "link": "http://www.tiktok.com/@putraglasshallevents"
+        },
+        {
+          "name": "website",
+          "link": "https://linktr.ee/putraglasshallevents"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/putraglasshall/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Seavoy House",
+      "location": {
+        "district": "Kuala Lumpur",
+        "state": "WP Kuala Lumpur"
+      },
+      "type": 1,
+      "image": "",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/theseavoyhouse/"
+        },
+        {
+          "name": "whatsapp",
+          "link": "https://wa.me/60126794565"
+        },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/fs4ZyrCJ34tZUpuS7"
+        },
+        {
+          "name": "tiktok",
+          "link": ""
+        },
+        {
+          "name": "website",
+          "link": ""
+        },
+        {
+          "name": "facebook",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Berern Hill Event Space",
+      "location": {
+        "district": "Hulu Langat",
+        "state": "Selangor"
+      },
+      "type": 1,
+      "image": "",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/berernhillhall/"
+        },
+        {
+          "name": "whatsapp",
+          "link": "https://wa.me/60195326441"
+        },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/CRB6iwJs6FamHT248"
+        },
+        {
+          "name": "tiktok",
+          "link": ""
+        },
+        {
+          "name": "website",
+          "link": ""
+        },
+        {
+          "name": "facebook",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Avenue",
+      "location": {
+        "district": "Cyberjaya",
+        "state": "Selangor"
+      },
+      "type": 1,
+      "image": "",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/theavenuespace/"
+        },
+        {
+          "name": "whatsapp",
+          "link": "https://wa.me/60182669636"
+        },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/hsVeb45KumNBaCat7"
+        },
+        {
+          "name": "tiktok",
+          "link": ""
+        },
+        {
+          "name": "website",
+          "link": "https://www.theavenuespace.com/"
+        },
+        {
+          "name": "facebook",
+          "link": ""
+        }
+      ]
+    }
+  ]
 }
