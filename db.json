@@ -179,6 +179,24 @@
           "link": ""
         }
       ]
+    },
+    {
+      "id": "Ad6KzW",
+      "name": "The Arce",
+      "location": { "district": "Puchong", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/27579171_332955883883552_8023675477946269696_n.jpg?id=Yj4yRJ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IllqNHlSSiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTU4NDg0NH0.Lk3q21K3NiEn63bLft8u5GfT0A5g8RRvwsAR7bNprgI&signature=31064b2e1d15a63756bc3100c791a5a7aa23e6006a7c8a54100994fac942c3ec",
+      "socials": [
+        { "name": "instagram", "link": "https://instagram.com/thearcepuchong" },
+        { "name": "whatsapp", "link": "https://wa.me/60163595358" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/uHgHL6pfWv6swsjE6" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://the-acre-puchong-event-venue.business.site/"
+        },
+        { "name": "facebook", "link": "" }
+      ]
     }
   ]
 }
