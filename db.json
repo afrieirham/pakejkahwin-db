@@ -494,6 +494,222 @@
           "link": "https://www.facebook.com/bizmillacatering"
         }
       ]
+    },
+    {
+      "id": "K6Pyak",
+      "name": "Glass House Glenmarie",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/glasshouse-logo.jpg?id=e5aWRo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1YVdSbyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMzU3M30.K5AT4d0NtW3HdZ1YRCfVWvx275ikMWW6IcQgjLLRcdM&signature=4eb95bce35c28002d8b486aab7c7dc0cb6b602c2c181c49e04f0cbe02925eca8",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/glasshouseglenmarie/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601119699771" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/c1GynxYJL16aa2bR7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://glasshousemalaysia.com/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/glasshouseeventspace/\\r"
+        }
+      ]
+    },
+    {
+      "id": "jy02rQ",
+      "name": "Glasshouse at Seputeh",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/15877618_1860144424261054_5644659076550885376_n.jpg?id=rDoM6p&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEb002cCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMzg5MX0.Cu80e6d6tME7E4-9QygPtdWTDMNS_q6dgMrwFgR61wY&signature=2b8a62b76b1ac38b0c54c7480882d13b40df68b99f0a1cfe07bca3de43983695",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/glasshouseatseputeh/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60174443047" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/TPdpNn5pRz4MECjb9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "http://www.glasshouse.my/contact" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/glasshouseatseputeh\\r"
+        }
+      ]
+    },
+    {
+      "id": "1lbydL",
+      "name": "Asiana Grand Hall Selayang",
+      "location": { "district": "Batu Caves", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/287126929_566558958162277_8956826841116484442_n.jpg?id=WJ8VMe&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldKOFZNZSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDQzMn0.ZUsO-MU4zzHmlSD3slqeAvT3NavegMcOw88-rySvmoA&signature=a1400f0f565ec7a2c7b48e1df72de66aa4c4b1854b7ec43face5aaee29293178",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_selayang/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60192611144" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/c7tppCptXFgiFJm19" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        { "name": "website", "link": "https://linktr.ee/Asianahall" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100077099826560\\r"
+        }
+      ]
+    },
+    {
+      "id": "671y7N",
+      "name": "Asiana Grand Hall Shah Alam",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/287135559_1225208514684043_3014117560196985618_n.jpg?id=xVJ5Nv&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InhWSjVOdiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDU1MH0.norpseGlKjQcLjZm0Nn8U6rFSM73rV0VtPzf_jvRqYs&signature=fe18e2e930541f1ec2b4fe537eedad739ee104bb0e68b214cd7b17b05aea490a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_shahalam/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162574900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/rroZexBn3FcY9ojP8" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        { "name": "website", "link": "https://linktr.ee/Asianahall" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100077099826560\\r"
+        }
+      ]
+    },
+    {
+      "id": "oy01Vx",
+      "name": "Dewan Tun Rahah Yayasan Tun Razak",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/287120562_564816875005427_5093862796024365062_n.jpg?id=e5aW9k&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1YVc5ayIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDc2MH0.Hn29UWjnyX-bYhWTVljul1wJMy6dxvaUzg7ASy0gysk&signature=c57a8a975afc2fb71f5a046234eb69c0f20404408f19eefadfee5da74f77f687",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewantunrahah/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60143284900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/6AYybmKfxTLJEzJc8" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        {
+          "name": "website",
+          "link": "https://dewan-tun-rahah-yayasan-tun-razak.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100077099826560\\r"
+        }
+      ]
+    },
+    {
+      "id": "EXBE6N",
+      "name": "Asiana Grand Hall Bukit Bintang",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/287624974_372240701554828_4568000790932134240_n.jpg?id=X54P8Y&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilg1NFA4WSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDk2MH0.PURRB9kAbpd4URqPOaDMf7fFBa-Mb0lYDpBrKx-qTIM&signature=f4863443a616af31412f85f610093a25479aec793e4622472482d6e7bb62a55b",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_bukitbintang/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60102871900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/QM48d6pC52wGcifN7" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        { "name": "website", "link": "https://linktr.ee/Asianahall" },
+        { "name": "facebook", "link": "https://tiktok.com/@asianagrand\\r" }
+      ]
+    },
+    {
+      "id": "QDxWql",
+      "name": "Asiana Grand Hall Cheras",
+      "location": { "district": "Seri Kembangan", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/286807236_731495304636611_8255573153314158587_n.jpg?id=2jKGoj&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqS0dvaiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTE4N30.nGlAbZDVxoN7QlSFNIPW4tNG4M01i-Ze0n6JygGeuiQ&signature=b8e0b48f60cc1cf562642fdc321aac233498644a015068ca25cd5a76858d535c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_cheras/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60146253900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/Sdh7VfZ1fmSBVLJ89" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        {
+          "name": "website",
+          "link": "https://asiana-grand-hall-cheras.business.site"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100077099826560\\r"
+        }
+      ]
+    },
+    {
+      "id": "WNeBLk",
+      "name": "Asiana Grand Hall Setapak",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/328179170_722233019508526_3975640343491442973_n.jpg?id=vXP5Wv&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InZYUDVXdiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTM2MX0.rJ49MFflIO_vOj71cD1Gf3-6k3arfPBLOu50IbanRmA&signature=b104637279d9a561413f309bcba068ed4ddfd1270b477d4c563290711e00e60f",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_setapak/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162537900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/tB4BiAUqHTWKh6gt7" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        { "name": "website", "link": "https://linktr.ee/Asianahall" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100082826367415\\r"
+        }
+      ]
+    },
+    {
+      "id": "671ybk",
+      "name": "Asiana Grand Hall Bangi",
+      "location": { "district": "Bandar Baru Bangi", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/333152712_1609889129522556_6821279694135023782_n.jpg?id=kbNBgM&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImtiTkJnTSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTQ5Mn0.B6KfNmV7r4_4VObZFNK6-9g_Q-C4Ov9DNb3ZoDeh388&signature=bcb953fbd6b51568a58b6621841080c8e3ee10d304aa1b6badefb61c632f8d67",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_bangi/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60103257683" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/JRgiAD87JSJb9K3Z8" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        { "name": "website", "link": "https://linktr.ee/Asianahall" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100077099826560\\r"
+        }
+      ]
+    },
+    {
+      "id": "ZNGLaa",
+      "name": "Senja Kirana EventSpace",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/317133553_5846095192078673_8815912344969591386_n.jpg?id=VpzOya&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlZwek95YSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTczMX0.7pePkUj9bku--2zH14O69FQT2w6XRsXH4h-ZxPS5Glo&signature=21964d70732d6963e45766f42628eabd08769f5b93bcb1b01776a06ac9666ffa",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/senjakirana_eventspace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60193700787" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZpKHbt1SNnb8yN2z8" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@senja.kirana.eventspace"
+        },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/senjakiranaeventspace/"
+        }
+      ]
     }
   ]
 }
