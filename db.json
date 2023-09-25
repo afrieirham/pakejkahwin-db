@@ -626,6 +626,153 @@
         { "name": "website", "link": "https://www.theavenuespace.com/" },
         { "name": "facebook", "link": "" }
       ]
+    },
+    {
+      "id": "XDRa5V",
+      "name": "SkyGlass Designer Event Hall",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/354098199_154697667606890_4179976074378616865_n.jpg?id=EqxpPA&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkVxeHBQQSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYzMTgyN30.RblWWITdRsd5TnNX948NJM2ye0Df41HU-V_Xu450a2k&signature=ee094caf5a4d8a1131e2c94932b931a0420b226ca4a9917196ca7eea378b4082",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/skyeglassevent/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60183615235" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/pc1KsyDr5DQxgjET8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/skyglassevent/"
+        }
+      ]
+    },
+    {
+      "id": "LbErJv",
+      "name": "Alamy Event Hall",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/164138726_218121919865784_3649437791896807872_n.jpg?id=BExv8K&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkJFeHY4SyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYzMjEwN30.-jwFqvwNe4n1FpmhSZmwKRvBs5LmF5L-2rnIVtxLZM8&signature=e058eadbbd898d141b6b075b02990966aab40f96e4b924380f79796aabaacbd0",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/alamy_event_hall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601112245165" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/VL33XYGTSsKnjwQv9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/alamyeventhall"
+        }
+      ]
+    },
+    {
+      "id": "zq095k",
+      "name": "Villa Busainna Wedding Hall",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/275685229_1723381544671257_7542748080391299519_n.jpg?id=zE7Vo1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InpFN1ZvMSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYzMjUyMH0.2QHPM-1UCLRBN6ojFxbNUOYl3dqkTnMaoB0ZaEufTJE&signature=2b722ac38da83cd67f37c39ae0fccc3e2dbff38f75abf04312d0afc1698f92fe",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/villabusainna"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60109606390" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZmdBXFg7MVVA1gSJ8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "MbrWEg",
+      "name": "Dewan SinggahSana Pengantin",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/285001319_700175337978816_6428254250023580027_n.jpg?id=BExvW4&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkJFeHZXNCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYzMjg0Nn0.bG-inbteKN9rOEV33aGgu17F9-5GH431Qyd33Ogwvhg&signature=f50a3dd3c170105046551ec6dcefc778fd6cf1d1ed23149e574f3f9250ddd8fa",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewansinggahsanapengantin/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601128177553" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/r1VPUYhnSHN8nYNX9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/anicateringandweddingplanner2"
+        }
+      ]
+    },
+    {
+      "id": "GzoZJe",
+      "name": "Julia Touch Bridal House",
+      "location": { "district": "Hulu Langat", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/290200201_396131655882413_8281791236583283672_n.jpg?id=bZWaP6&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJaV2FQNiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYzMzAxOH0.v9hO8xl2fWtcCAecWQYsabE4yupN4et9vMD85z0TFeo&signature=994bc4d2c1982d4e60a186fe5da1386b68362e136d36e43ac270ae737a04a6c4",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/juliatouchbridalhouse/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60182467674" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/SrKMokCWSMU5PNNu9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/juliatouch" }
+      ]
+    },
+    {
+      "id": "b72oEe",
+      "name": "Jasmine Banquet Hall",
+      "location": { "district": "Petaling Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/300791015_3325973937723879_676348313721253639_n.jpg?id=4aK54Y&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRhSzU0WSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYzMzUwMH0.KrNgE4oaMgJX9cxOC6lnz_HGCyz-Cy294Hd41BeJFJY&signature=2fb2fa36ec344b042227e80d7693d9466def9adb900403782794ec1ab945a4ea",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/jasmine_banquethall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162062830" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/fTAJRQ2GA23UmKtU8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/JasmineBanquetHall"
+        }
+      ]
+    },
+    {
+      "id": "671qKP",
+      "name": "Glass House @ I City",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/300058968_181147690990568_4871732594252717612_n.jpg?id=jelNL9&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbE5MOSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYzMzc0Nn0.eebIVhoOFuXdjYT4C27Z7hut44NmdeHDgEa9L_EKnhU&signature=0931614b3bd0e6c45847173115c5ccacc80113614b23afec21496d797981148e",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/glasshouseaticity/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60183203592" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/UQqqQzkr8yFcFYde8" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@glasshouseaticity"
+        },
+        {
+          "name": "website",
+          "link": "https://www.canva.com/design/DAFo6OnpYR4/UjQP_e41pfUJLVMjjcrG8g/view?website#2"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100089876987341"
+        }
+      ]
     }
   ]
 }
