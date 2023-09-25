@@ -197,6 +197,303 @@
         },
         { "name": "facebook", "link": "" }
       ]
+    },
+    {
+      "id": "Ad6aaD",
+      "name": "Dewan Anggerik Glenmarie",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/327187829_547834313969991_5317370620771614943_n.jpg?id=KpVrAz&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IktwVnJBeiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTE3OH0.We3Dbp737oRCQFsgfPIvKboce_09hxIzqvRIPTqu7V4&signature=f995ad601845d4e581180cc97ed0a3e4480469454edd8f97205d413a74199aa2",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewananggerik/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60109032334" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/2qjaVu46W37LoSvW9" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://dewan-anggerik-glenmarie.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/KTDewanAnggerik/\\r"
+        }
+      ]
+    },
+    {
+      "id": "Ad6ako",
+      "name": "Bizmilla City Hall",
+      "location": { "district": "Subang Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTU4Mn0.KhAOpK_B0MYrW59ugBIHv2Jf-uRWovbjcciBacgKW2U&signature=0bfa5ea6dea5110ea9f82344a8e18c968f8c747f003bea03274117b536791434",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/MbDodTbstNboaaSy7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "qdYg25",
+      "name": "Bizmilla Garden Hall",
+      "location": { "district": "Subang Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTY0MH0.sXNWxlniaOH7SJcLsmfxMPX3dPJD41RV26OznfNUulE&signature=3c910a85648342f5996bc78879514745bd537cc8fbfa27b882fa75eda4835379",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/F8ifN2faKwuWiF548" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "8KJ2vl",
+      "name": "Bizmilla Wedding Hall",
+      "location": { "district": "Subang Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTY4NX0.JHFFyIbLDyeuQpe94YCzUcjA029vuaiFlyz4rCunTBU&signature=1936444ef7fef3f160a36046d84ce862b9cbeaec676f219409e287cff645d04a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/9nANxSdy7BmwKo1H7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "e6Npql",
+      "name": "Bizmilla Grand Palace Ballroom",
+      "location": { "district": "Subang Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTc0OX0.k0do5OwEoqIOjou4Kx3YP3l0JyAtBosL_utkxYt8w8U&signature=6c3603490770792f765864c46eff8080a67e7c7c70360cc0d6127e1a017d0d95",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/86RUGWhqAcPERGfz8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "ly056k",
+      "name": "BIZMILLA Grand Ballroom Eco Sanctuary",
+      "location": { "district": "Telok Panglima Garang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTkxNX0.CY53OvCzIRMD-NafNWuPkp0ICdFc-nQNiw7eXXhhQFE&signature=70a39d9aa77b97bf771592d80c46711a8c1efffd873ba2bdc0501f05c4ddebe0",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/aaKuemupnMJgpPxt6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "K6PglA",
+      "name": "BIZMILLA @ GAMUDA GARDENS",
+      "location": { "district": "Rawang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTk2OH0.VvXLUQdgCxrzQtcw9vqknMd7J3lJ8oLqYhzzvK3iTN4&signature=cff78160af4e9d253960e9d387ad88958009276697d39f57cc0f04c1895db4a2",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/j4kJZTDN2qaxh7k59" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "qdYpB2",
+      "name": "Bizmilla Grand Hall Eco Palladium",
+      "location": { "district": "Johor Bahru", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjA1M30.-mZo9jJu3rHsmmEsJO1gEXChGy000heZ61s-XjWNhA0&signature=0209f3c305be58f270d5d71e778a16ecbb66f20a266dcacf8eac147ba36148fe",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/joiNGFami8NcLHNs6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "y60Gx0",
+      "name": "Bizmilla Ariz Hall Eco Palladium",
+      "location": { "district": "Johor Bahru", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjA5NX0.EE-IDiYwHwlJSvwPVsJpFvvODNpl3WxECf6vBPTx3dc&signature=d8224745b9f1b2566e887a27fbd068637d8f92aa53c3bf5fa2e6b83663516752",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/nswiTNa3HToU74GD9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "481qoB",
+      "name": "Bizmilla Platinum Hall Eco Palladium",
+      "location": { "district": "Johor Bahru", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjEzNH0.SC5KTUkXFPQlTNjhVW819uxUTFMd3TRIsjwoR3pv0PE&signature=8306dcb2712428dc27725de774d7287b70046bf7b55e4b02f4e57e04c013b899",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/fYjdZJmYK25G2bfJ7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "g0QpYM",
+      "name": "BIZMILLA ARIZ HALL PUTRAJAYA",
+      "location": { "district": "Putrajaya", "state": "WP Putrajaya" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjI0NH0.9Mt5jsdp8MijUk6jZmaHFLHqqSDaLGw4l05aiqbaw7o&signature=202cf646ee451f97e3465051155ae98adc3ab31c727c2bc9e35c923dcb4d5471",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/CeUfQcJExHBrxsi47" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "1lbxpb",
+      "name": "BIZMILLA EVENT HALL PUTRAJAYA",
+      "location": { "district": "Putrajaya", "state": "WP Putrajaya" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjI5NX0.LLDVjidyaeQcQ9yxpnqOQgP9B_XiY3UDRj3ioqpQpGE&signature=def050cb4734c514cc8cd52ea641f3f27e8ab9735500df9b79ec3c077fc36579",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/6Tap67GCsVkiY61N9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "7WJeEa",
+      "name": "Bizmilla Wedding Hall @ Iskandar Puteri",
+      "location": { "district": "Iskandar Puteri", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjM1N30.e8WOq4cT6NNAW-povhSA1YwWoCnGOdHs3mKbYtnVLLU&signature=c2ad296f3b7a3fcf6850e53f214200ee0980c525f90d57c37ce35161068ceaaf",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/cvPGmyL6bRLNSg486" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering\\r"
+        }
+      ]
+    },
+    {
+      "id": "0xbllB",
+      "name": "BIZMILLA Wedding Centre @ Simpang Ampat",
+      "location": { "district": "Simpang Ampat", "state": "Pulau Pinang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjQ0M30.dtprVaLjPJy1KU2q8ymDsGzcC4qGEfXclAVwGBr4H3Q&signature=2c01430aa12f242f31174d3cd1c34a567c3545e6f98d5ea9965ed06595e41a89",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/pzDgqneo21gJm3QF8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering"
+        }
+      ]
     }
   ]
 }
