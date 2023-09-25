@@ -773,6 +773,174 @@
           "link": "https://www.facebook.com/profile.php?id=100089876987341"
         }
       ]
+    },
+    {
+      "id": "kyORD6",
+      "name": "G Glasshouse at Klang",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/367424649_257858767110812_997046874790991560_n.jpg?id=6DNe5P&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZETmU1UCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1MjUwNn0.JKrs-u7w-3B2_cYvt8OWHE3nyxXvrHE0FAxD0rhiRSE&signature=58433d9d68411b0194b4ba1427b81f8f39c7eebc0e6bcf641c515c2369f163d0",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/gglasshouseatklang/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60108268761" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/8EQX4j26FqpWFLiX6" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@gglasshouseatklang"
+        },
+        {
+          "name": "website",
+          "link": "https://gfgtower.com/glass-house-klang/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/gglasshousemy"
+        }
+      ]
+    },
+    {
+      "id": "zqW2O0",
+      "name": "Villa Istana Melaka",
+      "location": { "district": "Ayer Keroh", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/109239802_281997813219969_7728939784765430941_n.jpg?id=WJzEZe&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldKekVaZSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NDUzMn0.VC7D6L3aziYfD_PH96XvGLO-vWmeMeAmwBqrWQfsGY8&signature=6a46af9b93cfa12df12e2b17a243d1042f130a6175dd816bd77fd9df3de25c86",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/villaistanamelaka_/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601164928928" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/giiWCoFhJB8G7s1Q9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://villaistana.com.my/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/IstanaMelaka"
+        }
+      ]
+    },
+    {
+      "id": "QD8z21",
+      "name": "Dewan KT Ballroom",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/357714480_761687125906078_7758446383034243309_n.jpg?id=RWPMQ9&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlJXUE1ROSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NDgzN30.PV6HWC3sA55GYFy9TLGVBST6KUQlo9oiowFrwwCC0s4&signature=7c7d8266c06c20568e6999a3084f043b3b7a94f782aa49e63a3f09978f7e11dd",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/ktballroomshahalam/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60163233401" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/5rUNiqyvFUjwVXw37" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/ktballroom/" }
+      ]
+    },
+    {
+      "id": "48P9Nb",
+      "name": "DEWAN KAHWIN RIZQHANA GALLERY",
+      "location": { "district": "Seri Kembangan", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/56106041_438731143542353_891888854238232576_n.jpg?id=jeP616&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplUDYxNiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NTE4Nn0.TyPOGT-BCprl68COZF49sh4SIFiL5b9uvLnbSN4WkVc&signature=2c5215bb9905d21ae7444d4d145fd869ca38c12e8c831ab9ba7a54033baaf50a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rizqhanagallery/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60127672720" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/wiMxmE94gyGbJFho9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rizqhana.gallery/"
+        }
+      ]
+    },
+    {
+      "id": "xp9RBd",
+      "name": "Dewan Bunga Sakura Bukit Jelutong",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/237340020_300659745190721_7456187316339586710_n.jpg?id=gbGqDM&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImdiR3FETSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NTQwMX0.h9pPea6NujvNNDQT1LkIT82IiRtMjLQ-pz0Yjq1wL30&signature=dac1c21f3a768a94940fc22cb671032c621fe2fedfa6c41a7703d7c7d7f6593b",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewanbungasakura/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162574323" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/W4yQvEYyHGzNPQSa7" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://dewan-bunga-sakura.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/KTdewansakura"
+        }
+      ]
+    },
+    {
+      "id": "ZNP1xy",
+      "name": "Puri Buana Garden Wedding",
+      "location": { "district": "Bandar Baru Bangi", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/301979583_517015800427412_3638692360288578557_n.jpg?id=M1RaNl&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik0xUmFObCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NTYyMH0.ondDuUvEm4xrlN3ql1YA94ERChIYZh23fbIvK8t-Vdg&signature=c43de5ade8fb391b6ed1cb8946ec95a67f9b57e9c00bbd7a16674b0e1eff9f38",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60126741029" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/Yk71zmmiaThGwNhA8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/gardenweddingvenue"
+        }
+      ]
+    },
+    {
+      "id": "kyOkyo",
+      "name": "Dewan Mazmida",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/361112604_602620355194081_1900217017143476638_n.jpg?id=rDPO6R&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEUE82UiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NTkxMn0.PjAOtPEO9JGSnN47JBmgMUQGX4mpuzvy-IMI6j4i5ok&signature=12cec3dadb6a986e4b2fd848ee0da9a0ac8e857b8ddbce1807474b4840559d06",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewanmazmida"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60123359539" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/3h3C59htpq2x8XzC6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://mazmidacatering.com.my/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/LAMANMAZMIDASUNGAIJATI/"
+        }
+      ]
+    },
+    {
+      "id": "WNljej",
+      "name": "Lestari Cinta Studio Ipoh",
+      "location": { "district": "Ipoh", "state": "Perak" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/285836646_1682447478774045_4972916979170587084_n.jpg?id=YjaGdB&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IllqYUdkQiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NjA2OX0.rSl8q-Z7hg6jLFAJmTOvy0eEWKfimX2YOTALPJprBO0&signature=06520a7626527567fcd9d38f86f94e51b80c3211de22d783ec94426b460fe3aa",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/lestaricintastudio"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60105068366" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ev5HpoTVQBGYaaNS9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/LCSIPOH" }
+      ]
     }
   ]
 }
