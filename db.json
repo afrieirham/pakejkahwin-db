@@ -1,36 +1,57 @@
 {
   "services": [
     {
-      "id": 5,
-      "name": "The Avenue",
-      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "id": "0xbllB",
+      "name": "BIZMILLA Wedding Centre @ Simpang Ampat",
+      "location": { "district": "Simpang Ampat", "state": "Pulau Pinang" },
       "typeId": 1,
-      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F260343444_371656851398643_3086409337844590676_n.jpg?alt=media&token=2d187854-9b33-42eb-835a-ad32193a2724",
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjQ0M30.dtprVaLjPJy1KU2q8ymDsGzcC4qGEfXclAVwGBr4H3Q&signature=2c01430aa12f242f31174d3cd1c34a567c3545e6f98d5ea9965ed06595e41a89",
       "socials": [
         {
           "name": "instagram",
-          "link": "https://www.instagram.com/theavenuespace/"
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
         },
-        { "name": "whatsapp", "link": "https://wa.me/60182669636" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/hsVeb45KumNBaCat7" },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/pzDgqneo21gJm3QF8" },
         { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://www.theavenuespace.com/" },
-        { "name": "facebook", "link": "" }
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering"
+        }
       ]
     },
     {
-      "id": "671y7N",
-      "name": "Asiana Grand Hall Shah Alam",
-      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "id": "EXBE6N",
+      "name": "Asiana Grand Hall Bukit Bintang",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/287135559_1225208514684043_3014117560196985618_n.jpg?id=xVJ5Nv&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InhWSjVOdiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDU1MH0.norpseGlKjQcLjZm0Nn8U6rFSM73rV0VtPzf_jvRqYs&signature=fe18e2e930541f1ec2b4fe537eedad739ee104bb0e68b214cd7b17b05aea490a",
+      "image": "https://storage.tally.so/private/287624974_372240701554828_4568000790932134240_n.jpg?id=X54P8Y&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilg1NFA4WSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDk2MH0.PURRB9kAbpd4URqPOaDMf7fFBa-Mb0lYDpBrKx-qTIM&signature=f4863443a616af31412f85f610093a25479aec793e4622472482d6e7bb62a55b",
       "socials": [
         {
           "name": "instagram",
-          "link": "https://www.instagram.com/asianagrandhall_shahalam/"
+          "link": "https://www.instagram.com/asianagrandhall_bukitbintang/"
         },
-        { "name": "whatsapp", "link": "https://wa.me/60162574900" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/rroZexBn3FcY9ojP8" },
+        { "name": "whatsapp", "link": "https://wa.me/60102871900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/QM48d6pC52wGcifN7" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        { "name": "website", "link": "https://linktr.ee/Asianahall" },
+        { "name": "facebook", "link": "https://tiktok.com/@asianagrand" }
+      ]
+    },
+    {
+      "id": "1lbydL",
+      "name": "Asiana Grand Hall Selayang",
+      "location": { "district": "Batu Caves", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/287126929_566558958162277_8956826841116484442_n.jpg?id=WJ8VMe&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldKOFZNZSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDQzMn0.ZUsO-MU4zzHmlSD3slqeAvT3NavegMcOw88-rySvmoA&signature=a1400f0f565ec7a2c7b48e1df72de66aa4c4b1854b7ec43face5aaee29293178",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_selayang/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60192611144" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/c7tppCptXFgiFJm19" },
         { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
         { "name": "website", "link": "https://linktr.ee/Asianahall" },
         {
@@ -40,18 +61,18 @@
       ]
     },
     {
-      "id": "ly056k",
-      "name": "BIZMILLA Grand Ballroom Eco Sanctuary",
-      "location": { "district": "Telok Panglima Garang", "state": "Selangor" },
+      "id": "g0QpYM",
+      "name": "BIZMILLA ARIZ HALL PUTRAJAYA",
+      "location": { "district": "Putrajaya", "state": "WP Putrajaya" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTkxNX0.CY53OvCzIRMD-NafNWuPkp0ICdFc-nQNiw7eXXhhQFE&signature=70a39d9aa77b97bf771592d80c46711a8c1efffd873ba2bdc0501f05c4ddebe0",
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjI0NH0.9Mt5jsdp8MijUk6jZmaHFLHqqSDaLGw4l05aiqbaw7o&signature=202cf646ee451f97e3465051155ae98adc3ab31c727c2bc9e35c923dcb4d5471",
       "socials": [
         {
           "name": "instagram",
           "link": "https://www.instagram.com/bizmilla_wedding_centre/"
         },
         { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/aaKuemupnMJgpPxt6" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/CeUfQcJExHBrxsi47" },
         { "name": "tiktok", "link": "" },
         { "name": "website", "link": "https://linktr.ee/bizmilla" },
         {
@@ -61,42 +82,18 @@
       ]
     },
     {
-      "id": "QDxWql",
-      "name": "Asiana Grand Hall Cheras",
-      "location": { "district": "Seri Kembangan", "state": "Selangor" },
+      "id": "1lbxpb",
+      "name": "BIZMILLA EVENT HALL PUTRAJAYA",
+      "location": { "district": "Putrajaya", "state": "WP Putrajaya" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/286807236_731495304636611_8255573153314158587_n.jpg?id=2jKGoj&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqS0dvaiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTE4N30.nGlAbZDVxoN7QlSFNIPW4tNG4M01i-Ze0n6JygGeuiQ&signature=b8e0b48f60cc1cf562642fdc321aac233498644a015068ca25cd5a76858d535c",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/asianagrandhall_cheras/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60146253900" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/Sdh7VfZ1fmSBVLJ89" },
-        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
-        {
-          "name": "website",
-          "link": "https://asiana-grand-hall-cheras.business.site"
-        },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/profile.php?id=100077099826560"
-        }
-      ]
-    },
-    {
-      "id": "qdYg25",
-      "name": "Bizmilla Garden Hall",
-      "location": { "district": "Subang Jaya", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTY0MH0.sXNWxlniaOH7SJcLsmfxMPX3dPJD41RV26OznfNUulE&signature=3c910a85648342f5996bc78879514745bd537cc8fbfa27b882fa75eda4835379",
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjI5NX0.LLDVjidyaeQcQ9yxpnqOQgP9B_XiY3UDRj3ioqpQpGE&signature=def050cb4734c514cc8cd52ea641f3f27e8ab9735500df9b79ec3c077fc36579",
       "socials": [
         {
           "name": "instagram",
           "link": "https://www.instagram.com/bizmilla_wedding_centre/"
         },
         { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/F8ifN2faKwuWiF548" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/6Tap67GCsVkiY61N9" },
         { "name": "tiktok", "link": "" },
         { "name": "website", "link": "https://linktr.ee/bizmilla" },
         {
@@ -106,162 +103,228 @@
       ]
     },
     {
-      "id": "jy02rQ",
-      "name": "Glasshouse at Seputeh",
-      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/15877618_1860144424261054_5644659076550885376_n.jpg?id=rDoM6p&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEb002cCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMzg5MX0.Cu80e6d6tME7E4-9QygPtdWTDMNS_q6dgMrwFgR61wY&signature=2b8a62b76b1ac38b0c54c7480882d13b40df68b99f0a1cfe07bca3de43983695",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/glasshouseatseputeh/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60174443047" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/TPdpNn5pRz4MECjb9" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "http://www.glasshouse.my/contact" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/glasshouseatseputeh"
-        }
-      ]
-    },
-    {
-      "id": "8KJ2vl",
-      "name": "Bizmilla Wedding Hall",
-      "location": { "district": "Subang Jaya", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTY4NX0.JHFFyIbLDyeuQpe94YCzUcjA029vuaiFlyz4rCunTBU&signature=1936444ef7fef3f160a36046d84ce862b9cbeaec676f219409e287cff645d04a",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/9nANxSdy7BmwKo1H7" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://linktr.ee/bizmilla" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/bizmillacatering"
-        }
-      ]
-    },
-    {
-      "id": "K6Pyak",
-      "name": "Glass House Glenmarie",
+      "id": 2,
+      "name": "Putra Glass Hall",
       "location": { "district": "Shah Alam", "state": "Selangor" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/glasshouse-logo.jpg?id=e5aWRo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1YVdSbyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMzU3M30.K5AT4d0NtW3HdZ1YRCfVWvx275ikMWW6IcQgjLLRcdM&signature=4eb95bce35c28002d8b486aab7c7dc0cb6b602c2c181c49e04f0cbe02925eca8",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F311974477_813982139714877_385924351617229575_n.jpg?alt=media&token=fd2049f4-5089-4986-8343-472bfbf8c253",
       "socials": [
         {
           "name": "instagram",
-          "link": "https://www.instagram.com/glasshouseglenmarie/"
+          "link": "https://www.instagram.com/putraglasshallevents/"
         },
-        { "name": "whatsapp", "link": "https://wa.me/601119699771" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/c1GynxYJL16aa2bR7" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://glasshousemalaysia.com/" },
+        { "name": "whatsapp", "link": "https://wa.me/60173603985" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/Q6GNUfQkCrWGSjMb6" },
+        {
+          "name": "tiktok",
+          "link": "http://www.tiktok.com/@putraglasshallevents"
+        },
+        { "name": "website", "link": "https://linktr.ee/putraglasshallevents" },
         {
           "name": "facebook",
-          "link": "https://www.facebook.com/glasshouseeventspace/"
+          "link": "https://www.facebook.com/putraglasshall/"
         }
       ]
     },
     {
-      "id": "e6Npql",
-      "name": "Bizmilla Grand Palace Ballroom",
-      "location": { "district": "Subang Jaya", "state": "Selangor" },
+      "id": 4,
+      "name": "Berern Hill Event Space",
+      "location": { "district": "Hulu Langat", "state": "Selangor" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTc0OX0.k0do5OwEoqIOjou4Kx3YP3l0JyAtBosL_utkxYt8w8U&signature=6c3603490770792f765864c46eff8080a67e7c7c70360cc0d6127e1a017d0d95",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F306069927_1205388776907703_5062853093140833848_n.jpg?alt=media&token=9bea2ec7-f893-4f31-91d3-bca739a03238",
       "socials": [
         {
           "name": "instagram",
-          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+          "link": "https://www.instagram.com/berernhillhall/"
         },
-        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/86RUGWhqAcPERGfz8" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://linktr.ee/bizmilla" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/bizmillacatering"
-        }
-      ]
-    },
-    {
-      "id": "671ybk",
-      "name": "Asiana Grand Hall Bangi",
-      "location": { "district": "Bandar Baru Bangi", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/333152712_1609889129522556_6821279694135023782_n.jpg?id=kbNBgM&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImtiTkJnTSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTQ5Mn0.B6KfNmV7r4_4VObZFNK6-9g_Q-C4Ov9DNb3ZoDeh388&signature=bcb953fbd6b51568a58b6621841080c8e3ee10d304aa1b6badefb61c632f8d67",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/asianagrandhall_bangi/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60103257683" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/JRgiAD87JSJb9K3Z8" },
-        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
-        { "name": "website", "link": "https://linktr.ee/Asianahall" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/profile.php?id=100077099826560"
-        }
-      ]
-    },
-    {
-      "id": "qdYpB2",
-      "name": "Bizmilla Grand Hall Eco Palladium",
-      "location": { "district": "Johor Bahru", "state": "Johor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjA1M30.-mZo9jJu3rHsmmEsJO1gEXChGy000heZ61s-XjWNhA0&signature=0209f3c305be58f270d5d71e778a16ecbb66f20a266dcacf8eac147ba36148fe",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/joiNGFami8NcLHNs6" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://linktr.ee/bizmilla" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/bizmillacatering"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "The Seavoy House",
-      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
-      "typeId": 1,
-      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F379886131_6469750889769467_6791108374154951255_n.jpg?alt=media&token=fc5b7456-c253-488b-a4b7-131193416e62",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/theseavoyhouse/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60126794565" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/fs4ZyrCJ34tZUpuS7" },
+        { "name": "whatsapp", "link": "https://wa.me/60195326441" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/CRB6iwJs6FamHT248" },
         { "name": "tiktok", "link": "" },
         { "name": "website", "link": "" },
         { "name": "facebook", "link": "" }
       ]
     },
     {
-      "id": "7WJeEa",
-      "name": "Bizmilla Wedding Hall @ Iskandar Puteri",
-      "location": { "district": "Iskandar Puteri", "state": "Johor" },
+      "id": "Ad6ako",
+      "name": "Bizmilla City Hall",
+      "location": { "district": "Subang Jaya", "state": "Selangor" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjM1N30.e8WOq4cT6NNAW-povhSA1YwWoCnGOdHs3mKbYtnVLLU&signature=c2ad296f3b7a3fcf6850e53f214200ee0980c525f90d57c37ce35161068ceaaf",
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTU4Mn0.KhAOpK_B0MYrW59ugBIHv2Jf-uRWovbjcciBacgKW2U&signature=0bfa5ea6dea5110ea9f82344a8e18c968f8c747f003bea03274117b536791434",
       "socials": [
         {
           "name": "instagram",
           "link": "https://www.instagram.com/bizmilla_wedding_centre/"
         },
         { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/cvPGmyL6bRLNSg486" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/MbDodTbstNboaaSy7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering"
+        }
+      ]
+    },
+    {
+      "id": "WNeBLk",
+      "name": "Asiana Grand Hall Setapak",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/328179170_722233019508526_3975640343491442973_n.jpg?id=vXP5Wv&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InZYUDVXdiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTM2MX0.rJ49MFflIO_vOj71cD1Gf3-6k3arfPBLOu50IbanRmA&signature=b104637279d9a561413f309bcba068ed4ddfd1270b477d4c563290711e00e60f",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_setapak/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162537900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/tB4BiAUqHTWKh6gt7" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        { "name": "website", "link": "https://linktr.ee/Asianahall" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100082826367415"
+        }
+      ]
+    },
+    {
+      "id": "Ad6aaD",
+      "name": "Dewan Anggerik Glenmarie",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/327187829_547834313969991_5317370620771614943_n.jpg?id=KpVrAz&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IktwVnJBeiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTE3OH0.We3Dbp737oRCQFsgfPIvKboce_09hxIzqvRIPTqu7V4&signature=f995ad601845d4e581180cc97ed0a3e4480469454edd8f97205d413a74199aa2",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewananggerik/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60109032334" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/2qjaVu46W37LoSvW9" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://dewan-anggerik-glenmarie.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/KTDewanAnggerik/"
+        }
+      ]
+    },
+    {
+      "id": "481qoB",
+      "name": "Bizmilla Platinum Hall Eco Palladium",
+      "location": { "district": "Johor Bahru", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjEzNH0.SC5KTUkXFPQlTNjhVW819uxUTFMd3TRIsjwoR3pv0PE&signature=8306dcb2712428dc27725de774d7287b70046bf7b55e4b02f4e57e04c013b899",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/fYjdZJmYK25G2bfJ7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering"
+        }
+      ]
+    },
+    {
+      "id": "ZNGLaa",
+      "name": "Senja Kirana EventSpace",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/317133553_5846095192078673_8815912344969591386_n.jpg?id=VpzOya&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlZwek95YSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTczMX0.7pePkUj9bku--2zH14O69FQT2w6XRsXH4h-ZxPS5Glo&signature=21964d70732d6963e45766f42628eabd08769f5b93bcb1b01776a06ac9666ffa",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/senjakirana_eventspace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60193700787" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZpKHbt1SNnb8yN2z8" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@senja.kirana.eventspace"
+        },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/senjakiranaeventspace/"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Urban Park Hall",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F314825016_644859110439104_9041130988362878036_n.jpg?alt=media&token=8add9dc9-82ef-422c-849f-64e911a620bb",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/urbanparkhall.my/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601139940677" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/7Zjpf2P63JogJwiY6" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@urbanparkhall" },
+        { "name": "website", "link": "https://linktr.ee/urbanparkhall" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "y60Gx0",
+      "name": "Bizmilla Ariz Hall Eco Palladium",
+      "location": { "district": "Johor Bahru", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjA5NX0.EE-IDiYwHwlJSvwPVsJpFvvODNpl3WxECf6vBPTx3dc&signature=d8224745b9f1b2566e887a27fbd068637d8f92aa53c3bf5fa2e6b83663516752",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/nswiTNa3HToU74GD9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering"
+        }
+      ]
+    },
+    {
+      "id": "Ad6KzW",
+      "name": "The Arce",
+      "location": { "district": "Puchong", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/27579171_332955883883552_8023675477946269696_n.jpg?id=Yj4yRJ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IllqNHlSSiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTU4NDg0NH0.Lk3q21K3NiEn63bLft8u5GfT0A5g8RRvwsAR7bNprgI&signature=31064b2e1d15a63756bc3100c791a5a7aa23e6006a7c8a54100994fac942c3ec",
+      "socials": [
+        { "name": "instagram", "link": "https://instagram.com/thearcepuchong" },
+        { "name": "whatsapp", "link": "https://wa.me/60163595358" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/uHgHL6pfWv6swsjE6" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://the-acre-puchong-event-venue.business.site/"
+        },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "K6PglA",
+      "name": "BIZMILLA @ GAMUDA GARDENS",
+      "location": { "district": "Rawang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTk2OH0.VvXLUQdgCxrzQtcw9vqknMd7J3lJ8oLqYhzzvK3iTN4&signature=cff78160af4e9d253960e9d387ad88958009276697d39f57cc0f04c1895db4a2",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/j4kJZTDN2qaxh7k59" },
         { "name": "tiktok", "link": "" },
         { "name": "website", "link": "https://linktr.ee/bizmilla" },
         {
@@ -295,18 +358,18 @@
       ]
     },
     {
-      "id": "K6PglA",
-      "name": "BIZMILLA @ GAMUDA GARDENS",
-      "location": { "district": "Rawang", "state": "Selangor" },
+      "id": "7WJeEa",
+      "name": "Bizmilla Wedding Hall @ Iskandar Puteri",
+      "location": { "district": "Iskandar Puteri", "state": "Johor" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTk2OH0.VvXLUQdgCxrzQtcw9vqknMd7J3lJ8oLqYhzzvK3iTN4&signature=cff78160af4e9d253960e9d387ad88958009276697d39f57cc0f04c1895db4a2",
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjM1N30.e8WOq4cT6NNAW-povhSA1YwWoCnGOdHs3mKbYtnVLLU&signature=c2ad296f3b7a3fcf6850e53f214200ee0980c525f90d57c37ce35161068ceaaf",
       "socials": [
         {
           "name": "instagram",
           "link": "https://www.instagram.com/bizmilla_wedding_centre/"
         },
         { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/j4kJZTDN2qaxh7k59" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/cvPGmyL6bRLNSg486" },
         { "name": "tiktok", "link": "" },
         { "name": "website", "link": "https://linktr.ee/bizmilla" },
         {
@@ -316,228 +379,36 @@
       ]
     },
     {
-      "id": "Ad6KzW",
-      "name": "The Arce",
-      "location": { "district": "Puchong", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/27579171_332955883883552_8023675477946269696_n.jpg?id=Yj4yRJ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IllqNHlSSiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTU4NDg0NH0.Lk3q21K3NiEn63bLft8u5GfT0A5g8RRvwsAR7bNprgI&signature=31064b2e1d15a63756bc3100c791a5a7aa23e6006a7c8a54100994fac942c3ec",
-      "socials": [
-        { "name": "instagram", "link": "https://instagram.com/thearcepuchong" },
-        { "name": "whatsapp", "link": "https://wa.me/60163595358" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/uHgHL6pfWv6swsjE6" },
-        { "name": "tiktok", "link": "" },
-        {
-          "name": "website",
-          "link": "https://the-acre-puchong-event-venue.business.site/"
-        },
-        { "name": "facebook", "link": "" }
-      ]
-    },
-    {
-      "id": "y60Gx0",
-      "name": "Bizmilla Ariz Hall Eco Palladium",
-      "location": { "district": "Johor Bahru", "state": "Johor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjA5NX0.EE-IDiYwHwlJSvwPVsJpFvvODNpl3WxECf6vBPTx3dc&signature=d8224745b9f1b2566e887a27fbd068637d8f92aa53c3bf5fa2e6b83663516752",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/nswiTNa3HToU74GD9" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://linktr.ee/bizmilla" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/bizmillacatering"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Urban Park Hall",
-      "location": { "district": "Shah Alam", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F314825016_644859110439104_9041130988362878036_n.jpg?alt=media&token=8add9dc9-82ef-422c-849f-64e911a620bb",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/urbanparkhall.my/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/601139940677" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/7Zjpf2P63JogJwiY6" },
-        { "name": "tiktok", "link": "https://www.tiktok.com/@urbanparkhall" },
-        { "name": "website", "link": "https://linktr.ee/urbanparkhall" },
-        { "name": "facebook", "link": "" }
-      ]
-    },
-    {
-      "id": "ZNGLaa",
-      "name": "Senja Kirana EventSpace",
+      "id": 3,
+      "name": "The Seavoy House",
       "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/317133553_5846095192078673_8815912344969591386_n.jpg?id=VpzOya&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlZwek95YSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTczMX0.7pePkUj9bku--2zH14O69FQT2w6XRsXH4h-ZxPS5Glo&signature=21964d70732d6963e45766f42628eabd08769f5b93bcb1b01776a06ac9666ffa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F379886131_6469750889769467_6791108374154951255_n.jpg?alt=media&token=fc5b7456-c253-488b-a4b7-131193416e62",
       "socials": [
         {
           "name": "instagram",
-          "link": "https://www.instagram.com/senjakirana_eventspace/"
+          "link": "https://www.instagram.com/theseavoyhouse/"
         },
-        { "name": "whatsapp", "link": "https://wa.me/60193700787" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/ZpKHbt1SNnb8yN2z8" },
-        {
-          "name": "tiktok",
-          "link": "https://www.tiktok.com/@senja.kirana.eventspace"
-        },
-        { "name": "website", "link": "" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/senjakiranaeventspace/"
-        }
-      ]
-    },
-    {
-      "id": "481qoB",
-      "name": "Bizmilla Platinum Hall Eco Palladium",
-      "location": { "district": "Johor Bahru", "state": "Johor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjEzNH0.SC5KTUkXFPQlTNjhVW819uxUTFMd3TRIsjwoR3pv0PE&signature=8306dcb2712428dc27725de774d7287b70046bf7b55e4b02f4e57e04c013b899",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/fYjdZJmYK25G2bfJ7" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://linktr.ee/bizmilla" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/bizmillacatering"
-        }
-      ]
-    },
-    {
-      "id": "Ad6aaD",
-      "name": "Dewan Anggerik Glenmarie",
-      "location": { "district": "Shah Alam", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/327187829_547834313969991_5317370620771614943_n.jpg?id=KpVrAz&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IktwVnJBeiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTE3OH0.We3Dbp737oRCQFsgfPIvKboce_09hxIzqvRIPTqu7V4&signature=f995ad601845d4e581180cc97ed0a3e4480469454edd8f97205d413a74199aa2",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/dewananggerik/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60109032334" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/2qjaVu46W37LoSvW9" },
-        { "name": "tiktok", "link": "" },
-        {
-          "name": "website",
-          "link": "https://dewan-anggerik-glenmarie.business.site/"
-        },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/KTDewanAnggerik/"
-        }
-      ]
-    },
-    {
-      "id": "WNeBLk",
-      "name": "Asiana Grand Hall Setapak",
-      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/328179170_722233019508526_3975640343491442973_n.jpg?id=vXP5Wv&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InZYUDVXdiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTM2MX0.rJ49MFflIO_vOj71cD1Gf3-6k3arfPBLOu50IbanRmA&signature=b104637279d9a561413f309bcba068ed4ddfd1270b477d4c563290711e00e60f",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/asianagrandhall_setapak/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60162537900" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/tB4BiAUqHTWKh6gt7" },
-        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
-        { "name": "website", "link": "https://linktr.ee/Asianahall" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/profile.php?id=100082826367415"
-        }
-      ]
-    },
-    {
-      "id": "Ad6ako",
-      "name": "Bizmilla City Hall",
-      "location": { "district": "Subang Jaya", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTU4Mn0.KhAOpK_B0MYrW59ugBIHv2Jf-uRWovbjcciBacgKW2U&signature=0bfa5ea6dea5110ea9f82344a8e18c968f8c747f003bea03274117b536791434",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/MbDodTbstNboaaSy7" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://linktr.ee/bizmilla" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/bizmillacatering"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Berern Hill Event Space",
-      "location": { "district": "Hulu Langat", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F306069927_1205388776907703_5062853093140833848_n.jpg?alt=media&token=9bea2ec7-f893-4f31-91d3-bca739a03238",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/berernhillhall/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60195326441" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/CRB6iwJs6FamHT248" },
+        { "name": "whatsapp", "link": "https://wa.me/60126794565" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/fs4ZyrCJ34tZUpuS7" },
         { "name": "tiktok", "link": "" },
         { "name": "website", "link": "" },
         { "name": "facebook", "link": "" }
       ]
     },
     {
-      "id": 2,
-      "name": "Putra Glass Hall",
-      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "id": "qdYpB2",
+      "name": "Bizmilla Grand Hall Eco Palladium",
+      "location": { "district": "Johor Bahru", "state": "Johor" },
       "typeId": 1,
-      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F311974477_813982139714877_385924351617229575_n.jpg?alt=media&token=fd2049f4-5089-4986-8343-472bfbf8c253",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/putraglasshallevents/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60173603985" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/Q6GNUfQkCrWGSjMb6" },
-        {
-          "name": "tiktok",
-          "link": "http://www.tiktok.com/@putraglasshallevents"
-        },
-        { "name": "website", "link": "https://linktr.ee/putraglasshallevents" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/putraglasshall/"
-        }
-      ]
-    },
-    {
-      "id": "1lbxpb",
-      "name": "BIZMILLA EVENT HALL PUTRAJAYA",
-      "location": { "district": "Putrajaya", "state": "WP Putrajaya" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjI5NX0.LLDVjidyaeQcQ9yxpnqOQgP9B_XiY3UDRj3ioqpQpGE&signature=def050cb4734c514cc8cd52ea641f3f27e8ab9735500df9b79ec3c077fc36579",
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjA1M30.-mZo9jJu3rHsmmEsJO1gEXChGy000heZ61s-XjWNhA0&signature=0209f3c305be58f270d5d71e778a16ecbb66f20a266dcacf8eac147ba36148fe",
       "socials": [
         {
           "name": "instagram",
           "link": "https://www.instagram.com/bizmilla_wedding_centre/"
         },
         { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/6Tap67GCsVkiY61N9" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/joiNGFami8NcLHNs6" },
         { "name": "tiktok", "link": "" },
         { "name": "website", "link": "https://linktr.ee/bizmilla" },
         {
@@ -547,39 +418,18 @@
       ]
     },
     {
-      "id": "g0QpYM",
-      "name": "BIZMILLA ARIZ HALL PUTRAJAYA",
-      "location": { "district": "Putrajaya", "state": "WP Putrajaya" },
+      "id": "671ybk",
+      "name": "Asiana Grand Hall Bangi",
+      "location": { "district": "Bandar Baru Bangi", "state": "Selangor" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjI0NH0.9Mt5jsdp8MijUk6jZmaHFLHqqSDaLGw4l05aiqbaw7o&signature=202cf646ee451f97e3465051155ae98adc3ab31c727c2bc9e35c923dcb4d5471",
+      "image": "https://storage.tally.so/private/333152712_1609889129522556_6821279694135023782_n.jpg?id=kbNBgM&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImtiTkJnTSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTQ5Mn0.B6KfNmV7r4_4VObZFNK6-9g_Q-C4Ov9DNb3ZoDeh388&signature=bcb953fbd6b51568a58b6621841080c8e3ee10d304aa1b6badefb61c632f8d67",
       "socials": [
         {
           "name": "instagram",
-          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+          "link": "https://www.instagram.com/asianagrandhall_bangi/"
         },
-        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/CeUfQcJExHBrxsi47" },
-        { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "https://linktr.ee/bizmilla" },
-        {
-          "name": "facebook",
-          "link": "https://www.facebook.com/bizmillacatering"
-        }
-      ]
-    },
-    {
-      "id": "1lbydL",
-      "name": "Asiana Grand Hall Selayang",
-      "location": { "district": "Batu Caves", "state": "Selangor" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/287126929_566558958162277_8956826841116484442_n.jpg?id=WJ8VMe&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldKOFZNZSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDQzMn0.ZUsO-MU4zzHmlSD3slqeAvT3NavegMcOw88-rySvmoA&signature=a1400f0f565ec7a2c7b48e1df72de66aa4c4b1854b7ec43face5aaee29293178",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/asianagrandhall_selayang/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60192611144" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/c7tppCptXFgiFJm19" },
+        { "name": "whatsapp", "link": "https://wa.me/60103257683" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/JRgiAD87JSJb9K3Z8" },
         { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
         { "name": "website", "link": "https://linktr.ee/Asianahall" },
         {
@@ -589,42 +439,192 @@
       ]
     },
     {
-      "id": "EXBE6N",
-      "name": "Asiana Grand Hall Bukit Bintang",
-      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "id": "e6Npql",
+      "name": "Bizmilla Grand Palace Ballroom",
+      "location": { "district": "Subang Jaya", "state": "Selangor" },
       "typeId": 1,
-      "image": "https://storage.tally.so/private/287624974_372240701554828_4568000790932134240_n.jpg?id=X54P8Y&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilg1NFA4WSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDk2MH0.PURRB9kAbpd4URqPOaDMf7fFBa-Mb0lYDpBrKx-qTIM&signature=f4863443a616af31412f85f610093a25479aec793e4622472482d6e7bb62a55b",
-      "socials": [
-        {
-          "name": "instagram",
-          "link": "https://www.instagram.com/asianagrandhall_bukitbintang/"
-        },
-        { "name": "whatsapp", "link": "https://wa.me/60102871900" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/QM48d6pC52wGcifN7" },
-        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
-        { "name": "website", "link": "https://linktr.ee/Asianahall" },
-        { "name": "facebook", "link": "https://tiktok.com/@asianagrand" }
-      ]
-    },
-    {
-      "id": "0xbllB",
-      "name": "BIZMILLA Wedding Centre @ Simpang Ampat",
-      "location": { "district": "Simpang Ampat", "state": "Pulau Pinang" },
-      "typeId": 1,
-      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMjQ0M30.dtprVaLjPJy1KU2q8ymDsGzcC4qGEfXclAVwGBr4H3Q&signature=2c01430aa12f242f31174d3cd1c34a567c3545e6f98d5ea9965ed06595e41a89",
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTc0OX0.k0do5OwEoqIOjou4Kx3YP3l0JyAtBosL_utkxYt8w8U&signature=6c3603490770792f765864c46eff8080a67e7c7c70360cc0d6127e1a017d0d95",
       "socials": [
         {
           "name": "instagram",
           "link": "https://www.instagram.com/bizmilla_wedding_centre/"
         },
         { "name": "whatsapp", "link": "https://wa.me/60126785479" },
-        { "name": "maps", "link": "https://maps.app.goo.gl/pzDgqneo21gJm3QF8" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/86RUGWhqAcPERGfz8" },
         { "name": "tiktok", "link": "" },
         { "name": "website", "link": "https://linktr.ee/bizmilla" },
         {
           "name": "facebook",
           "link": "https://www.facebook.com/bizmillacatering"
         }
+      ]
+    },
+    {
+      "id": "K6Pyak",
+      "name": "Glass House Glenmarie",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/glasshouse-logo.jpg?id=e5aWRo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1YVdSbyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMzU3M30.K5AT4d0NtW3HdZ1YRCfVWvx275ikMWW6IcQgjLLRcdM&signature=4eb95bce35c28002d8b486aab7c7dc0cb6b602c2c181c49e04f0cbe02925eca8",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/glasshouseglenmarie/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601119699771" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/c1GynxYJL16aa2bR7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://glasshousemalaysia.com/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/glasshouseeventspace/"
+        }
+      ]
+    },
+    {
+      "id": "8KJ2vl",
+      "name": "Bizmilla Wedding Hall",
+      "location": { "district": "Subang Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTY4NX0.JHFFyIbLDyeuQpe94YCzUcjA029vuaiFlyz4rCunTBU&signature=1936444ef7fef3f160a36046d84ce862b9cbeaec676f219409e287cff645d04a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/9nANxSdy7BmwKo1H7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering"
+        }
+      ]
+    },
+    {
+      "id": "jy02rQ",
+      "name": "Glasshouse at Seputeh",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/15877618_1860144424261054_5644659076550885376_n.jpg?id=rDoM6p&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEb002cCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMzg5MX0.Cu80e6d6tME7E4-9QygPtdWTDMNS_q6dgMrwFgR61wY&signature=2b8a62b76b1ac38b0c54c7480882d13b40df68b99f0a1cfe07bca3de43983695",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/glasshouseatseputeh/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60174443047" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/TPdpNn5pRz4MECjb9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "http://www.glasshouse.my/contact" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/glasshouseatseputeh"
+        }
+      ]
+    },
+    {
+      "id": "qdYg25",
+      "name": "Bizmilla Garden Hall",
+      "location": { "district": "Subang Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTY0MH0.sXNWxlniaOH7SJcLsmfxMPX3dPJD41RV26OznfNUulE&signature=3c910a85648342f5996bc78879514745bd537cc8fbfa27b882fa75eda4835379",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/F8ifN2faKwuWiF548" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering"
+        }
+      ]
+    },
+    {
+      "id": "QDxWql",
+      "name": "Asiana Grand Hall Cheras",
+      "location": { "district": "Seri Kembangan", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/286807236_731495304636611_8255573153314158587_n.jpg?id=2jKGoj&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqS0dvaiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNTE4N30.nGlAbZDVxoN7QlSFNIPW4tNG4M01i-Ze0n6JygGeuiQ&signature=b8e0b48f60cc1cf562642fdc321aac233498644a015068ca25cd5a76858d535c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_cheras/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60146253900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/Sdh7VfZ1fmSBVLJ89" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        {
+          "name": "website",
+          "link": "https://asiana-grand-hall-cheras.business.site"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100077099826560"
+        }
+      ]
+    },
+    {
+      "id": "ly056k",
+      "name": "BIZMILLA Grand Ballroom Eco Sanctuary",
+      "location": { "district": "Telok Panglima Garang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/79844666_2466314043494984_2942556741021204480_n.jpg?id=jel8AQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplbDhBUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyMTkxNX0.CY53OvCzIRMD-NafNWuPkp0ICdFc-nQNiw7eXXhhQFE&signature=70a39d9aa77b97bf771592d80c46711a8c1efffd873ba2bdc0501f05c4ddebe0",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bizmilla_wedding_centre/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126785479" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/aaKuemupnMJgpPxt6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/bizmilla" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bizmillacatering"
+        }
+      ]
+    },
+    {
+      "id": "671y7N",
+      "name": "Asiana Grand Hall Shah Alam",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/287135559_1225208514684043_3014117560196985618_n.jpg?id=xVJ5Nv&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InhWSjVOdiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTYyNDU1MH0.norpseGlKjQcLjZm0Nn8U6rFSM73rV0VtPzf_jvRqYs&signature=fe18e2e930541f1ec2b4fe537eedad739ee104bb0e68b214cd7b17b05aea490a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/asianagrandhall_shahalam/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162574900" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/rroZexBn3FcY9ojP8" },
+        { "name": "tiktok", "link": "https://tiktok.com/@asianagrand" },
+        { "name": "website", "link": "https://linktr.ee/Asianahall" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100077099826560"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Avenue",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F260343444_371656851398643_3086409337844590676_n.jpg?alt=media&token=2d187854-9b33-42eb-835a-ad32193a2724",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/theavenuespace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60182669636" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/hsVeb45KumNBaCat7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://www.theavenuespace.com/" },
+        { "name": "facebook", "link": "" }
       ]
     }
   ]
