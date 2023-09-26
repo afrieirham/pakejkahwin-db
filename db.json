@@ -1892,7 +1892,10 @@
         { "name": "whatsapp", "link": "https://wa.me/60103690529" },
         { "name": "maps", "link": "https://maps.app.goo.gl/kYGSsnMsSaJsPGA66" },
         { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "" },
+        {
+          "name": "website",
+          "link": "https://biznazevents.com/biznaz-cyberville-hall/"
+        },
         { "name": "facebook", "link": "https://www.facebook.com/Biznazevent/" }
       ]
     },
@@ -1910,7 +1913,10 @@
         { "name": "whatsapp", "link": "https://wa.me/60124726449" },
         { "name": "maps", "link": "https://maps.app.goo.gl/BJgJaqnqBhj3FAML7" },
         { "name": "tiktok", "link": "" },
-        { "name": "website", "link": "" },
+        {
+          "name": "website",
+          "link": "https://biznazevents.com/biznaz-insya-hall/"
+        },
         { "name": "facebook", "link": "https://www.facebook.com/Biznazevent/" }
       ]
     }
