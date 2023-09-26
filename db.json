@@ -1355,6 +1355,111 @@
           "link": "https://www.facebook.com/rumahabangjamil"
         }
       ]
+    },
+    {
+      "id": "N6M2M0",
+      "name": "Cornerstone IPC",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/368238915_675323544640348_3719076725372603318_n.jpg?id=gbGgJM&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImdiR2dKTSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxOTI5Nn0.ccjOiDPgv0lK67xlnEeo_mPHZkKOs2lnt5lIoo0FRmw&signature=1a2e1983b128f9c0801608d14f490f7d5510aae39b175d85318879562acd6dc1",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/cornerstoneipc_kl/?hl=en"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60167512260" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/Rpeyhgt6djGWLkMD6" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "http://cornerstoneipc.com/weddingspaceklccglassballroom/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/cornerstoneipc"
+        }
+      ]
+    },
+    {
+      "id": "d6KJrD",
+      "name": "RICH HALL by Kamalinda",
+      "location": { "district": "Semenyih", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/358347055_129072320222935_7091434890461896151_n.jpg?id=EqWAgB&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkVxV0FnQiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxOTgxNX0.7DUODmagubW64F-fzhMSqqnzSU3wjjhr2UXmpm1ZeOw&signature=9c081c67796595d9ef259df09379709cbf114cbadca866597925eb02ee59bd0a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/richhall.kamalinda/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60182317025" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/PxCYKkZz8WwBHgGy6" },
+        {
+          "name": "tiktok",
+          "link": "https://tiktok.com/@kamalindaeventwedding"
+        },
+        { "name": "website", "link": "https://linktr.ee/kamalindaevents" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/kamalinda.event"
+        }
+      ]
+    },
+    {
+      "id": "DNA6zR",
+      "name": "Zuljannah Palace",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/325898747_1325312048308264_7988284458027974951_n.jpg?id=1WVOzl&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFXVk96bCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcyMDEzMH0.raSFpJrQruO21_H48c1kqJdY0gjIqPIhHZI50lwH8b4&signature=5d05db388251f971f16695692f5886abf3295098187f87a686866d16c8acf7c1",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/zuljannah_palace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601126462786" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/18d7zXeBJ2hAnDtF9" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@shah_zuljannah" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100057285646072"
+        }
+      ]
+    },
+    {
+      "id": "ZNvrRa",
+      "name": "Namida Garden and Events",
+      "location": { "district": "Sepang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/294494611_478072277654453_8546586815848689415_n.png?id=GelkAp&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdlbGtBcCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcyMDM0Mn0.22TzYZRmxc44869EBIlMI419nBnEgpcnAkAX6rH7IHs&signature=85a09028e55a7f84be4318a142f913800f950a3bbe535f17d325ef416c3597a9",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60192655233" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ztVu1b7fUYGKX38eA" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/namidagardenandevents/"
+        }
+      ]
+    },
+    {
+      "id": "WNDVZe",
+      "name": "Astana Fartisha",
+      "location": { "district": "Ipoh", "state": "Perak" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/285640715_779488366765196_8134668307981276779_n.jpg?id=aOdkLq&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFPZGtMcSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcyMDUzNX0.OYt2Q5DZpdCp8ufNRygQygenJd7X-baLFMx8W3HeNq4&signature=82666082bc2bbcfd3b8befa8c3e5722c6ed9d1727e3b08658c038c8355ab0756",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60165660332" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/mo2dmyiBmb8CbEyE6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/astanafartisha.official/"
+        }
+      ]
     }
   ]
 }
