@@ -941,6 +941,396 @@
         { "name": "website", "link": "" },
         { "name": "facebook", "link": "https://www.facebook.com/LCSIPOH" }
       ]
+    },
+    {
+      "id": "kyOvdM",
+      "name": "Villa Chintha Zara",
+      "location": { "district": "Ipoh", "state": "Perak" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/198309513_3001082686777885_9015730299441277332_n.jpg?id=e5Rrvo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1UnJ2byIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NjYwOH0.ryDCjeENrlv3IbwWnWoTFeLv4ZIRo6-2FVG9a9QtuhY&signature=faea4d3218fb8e02cec9a9ee0a9dadcbfd98858d7ff63b1b814a8e25b652d941",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/chintha_zara"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60135841992" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/Tmhx5ecbn9YjBVrX8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/p/Villa-Chintha-Zara-Chintha-Zara-Wedding-100047381663139/"
+        }
+      ]
+    },
+    {
+      "id": "V0oDzl",
+      "name": "Sutera Hall",
+      "location": { "district": "Ipoh", "state": "Perak" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/281619906_813733226677976_322083491727597568_n.jpg?id=0VO8GP&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBWTzhHUCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NjcxNn0.jAQBwgPQfidn0iS9AYdGDfcnskYPBYutzo3vf5JZDgc&signature=f57795af7b8698e437a3b1a052e7e008f84514c6a3fcaa29f3fdf73c01103bbc",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/suterahall_asq"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60164121074" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/tNwaGt86VWVxYr5j6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/suterahall19/"
+        }
+      ]
+    },
+    {
+      "id": "jyGvB1",
+      "name": "Casa Impian De La Rosa",
+      "location": { "district": "Ipoh", "state": "Perak" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/20347112_152765178608168_379296056627691520_a.jpg?id=o9GRQN&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im85R1JRTiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NjgxNn0.q2P3OHLl9hKEDFyq-UIFx-eGxbeZo1WUBPlUn_7D22A&signature=f96cf42a2be19538de83c31fe2a61c1b63e7a8bb993c49595c5712708fb5dc28",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/casa.impian"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60182777867" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/r2x6noCjnEqs8y4t9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/casaimpiandelarosaipoh/"
+        }
+      ]
+    },
+    {
+      "id": "67rMGO",
+      "name": "Dewan Ghazain",
+      "location": { "district": "Ipoh", "state": "Perak" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/21034157_10156267082939057_5444605049806024578_n.jpg?id=BE7pRK&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkJFN3BSSyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTY1NzIwM30.3kWuOwg7eJhmaxaikBXTC5jxRa9x3gz70stt7znFk4M&signature=f8da94b1e7e05c5a8ba715ff1cb9cdc7a15f50f1bf533f3a8655b90e35ad4aff",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60146419329" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/aXAfiKrnt4nTGi5X9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/pages/Dewan-Dato-Ghazali-Meru-Point-Gmi-Ipoh/312980385479446"
+        }
+      ]
+    },
+    {
+      "id": "vAEWK0",
+      "name": "Villa Rimba Flora Gombak",
+      "location": { "district": "Gombak", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/382679433_328217962947604_3847608218983485123_n.jpg?id=2jP7RA&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqUDdSQSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxMDExNn0.HQ17l-PUA1q1sqjHP5e77l_2nRhLAY7aLR7U34ACOJg&signature=9fc751b0a10c2e59667f15d98b277caa645465260de00d484e2ddade36bf0a94",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/villarimbaflora/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60122056756" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/tDs2xoac1rYth5rY7" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/villa-rimba-flora-gombak/"
+        },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "QDvEPY",
+      "name": "Rumah Abang Jamil 2 SEREMBAN",
+      "location": { "district": "Seremban", "state": "Negeri Sembilan" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2FIMG_3229-1536x1152.jpg?alt=media&token=dbce7bc0-aafe-45d8-bf72-fd1dddf496f6",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60167510182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/scnNfu3CAujBjnCH8" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-seremban-ke-2/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "R0v24p",
+      "name": "Rumah Abang Jamil PANTAI BALOK",
+      "location": { "district": "Kuantan", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2FB1-Cover-Photo-Venue-1536x1024.jpg?alt=media&token=0a5c0efd-0250-460f-8c6f-ae2b0aa5cbd4",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60168261182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/1CdJW9kRVQDV8UdA9" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-batu-pantai-balok/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "LbvV6y",
+      "name": "RUMAH ABANG JAMIL KLANG",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2F1.-Cover-Image-min-1536x1024.jpg?alt=media&token=a6f379d8-99cf-4bfb-a6b3-264b2daea1fc",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60168261182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/HaeF4yefgny8ZDHB9" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-klang/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "1lDOxl",
+      "name": "Rumah Abang Jamil JOHOR BAHRU",
+      "location": { "district": "Johor Bahru", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2Fphoto6300595338674809696-1.jpg?alt=media&token=356c2a20-8bc5-473e-8572-5b6cfff0d62c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60122521182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZRugkGzfBKUzMJhr7" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-johor-bahru/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "2e1Vgj",
+      "name": "Rumah Abang Jamil IPOH",
+      "location": { "district": "Ipoh", "state": "Perak" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2FDSCF0668-min-scaled-1-1536x1024.jpg?alt=media&token=dd06bc53-90f1-428d-bab4-8934b5a04948",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60178770182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/duP2s8ycmCtSKDQPA" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-ipoh/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "XD1gxz",
+      "name": "Rumah Abang Jamil MELAKA",
+      "location": { "district": "Melaka", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2FM1.1-1536x908.jpg?alt=media&token=eb961c6e-56d5-4fdc-807b-c207c7a18c84",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60178770182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/vjEJbPYw8ruCKiUB8" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-melaka/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "jy5p6J",
+      "name": "Rumah Abang Jamil BATU PAHAT",
+      "location": { "district": "Batu Pahat", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2FBP1-1536x1024.jpg?alt=media&token=3da0a1e8-3d9d-4742-8d42-89e77bfa6e29",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60168930182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/CFWFcx6Po52EJZAq8" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-batu-pahat/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "2e1Z4L",
+      "name": "Rumah Abang Jamil MASAI",
+      "location": { "district": "Pasir Gudang", "state": "Johor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/SZEK-2671-1536x1024.jpg?id=BE7eKA&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkJFN2VLQSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxMTgwNH0.1maAwpFSfR_3ZgMZ9fw7ZI6L-wLj3rkFf-JmYiGQZYM&signature=f710cda59b46983cc331702f7b0590f9cf651e187ebff0eceec4dcc0ace34318",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60122521182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/4RwwHr2nameypFzH8" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-kota-masai/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "EXvgbo",
+      "name": "Rumah Abang Jamil TELUK SISEK",
+      "location": { "district": "Kuantan", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/photo6111854980832013103.jpeg?id=jePzo6&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplUHpvNiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxMTk1MH0.DUTu5vJ0wB2041UV0Y_UAkRvWPo1YjCovta25mLTmL8&signature=dd978fadf94063210c14741b2a88736283e6379fad1d6d02150de536fbd75b6b",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60168261182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/WJTsFi6yBZgqL9y36" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-teluk-sisek/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "qdopk8",
+      "name": "Rumah Abang Jamil INDERA MAHKOTA",
+      "location": { "district": "Kuantan", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/01-main-Photo-081A0178-scaled-1-1536x1024.jpeg?id=0VOkeQ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBWT2tlUSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxMjA2MX0.sZ5Bk7qx187YdLV2YtFpIfuT9jSCCJvkFlpLoFdd-pM&signature=dc41d6487e9191380a4d9a9cd6734e544c41deb1a8a44f8028c188fc399c2f0c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60168261182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/d9wea1pMZFoWF2vm6" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-indera-mahkota/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "48Aqqr",
+      "name": "Rumah Abang Jamil 1 SEREMBAN",
+      "location": { "district": "Seremban", "state": "Negeri Sembilan" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/IMG_5742-1536x1024.jpg?id=jePzPY&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplUHpQWSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxMjE1NH0.J3pmwvAYBJMkFI2eO5XM2IUNroprw2MEk0zbtuzKrKY&signature=f5732ded1c38ecb115b043c3b6f080c7a3ffee609f4476d1860c8b2e2833b1a3",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60168261182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/PSBapiv59ru78ZW56" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-seremban/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
+    },
+    {
+      "id": "67A9zY",
+      "name": "Rumah Abang Jamil KUALA TERENGGANU",
+      "location": { "district": "Kuala Terengganu", "state": "Terengganu" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/IMG_2044-1536x1024.jpg?id=9NQ4DK&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjlOUTRESyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxMjIzM30.p4rZx_u9NYXuBCLiPeFYnClOW1qWbM1xQ9lD6B44XMY&signature=c3f42f75bdc1b4dd4ad5f6c611766ebf4417c4fef7d386839ee4ab4ff0f2aa0a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60168261182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZqfNXGzboEQ747YJ9" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-kuala-terengganu/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
     }
   ]
 }
