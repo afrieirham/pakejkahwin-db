@@ -1331,6 +1331,30 @@
           "link": "https://www.facebook.com/rumahabangjamil"
         }
       ]
+    },
+    {
+      "id": "1lDgJ4",
+      "name": "Rumah Abang Jamil Kota Bharu",
+      "location": { "district": "Kota Bharu", "state": "Kelantan" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/IMG_1851-1536x1024.jpg?id=M1RGKA&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik0xUkdLQSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTcxNTAzM30.mQZwkTvcl9SsD0sQUB1NbC59umQlNVV8CFHwrPhSRAg&signature=4df4d5e6cc3c71040269244d02d5569ffc0326f11a79ea568a76d03bf67f02a6",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rumahabangjamil/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162091182" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/txHdVgHqaGpjBwYF9" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@rumahjamil" },
+        {
+          "name": "website",
+          "link": "https://nikahsatu.com/venue/rumah-abang-jamil-kota-bharu/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/rumahabangjamil"
+        }
+      ]
     }
   ]
 }
