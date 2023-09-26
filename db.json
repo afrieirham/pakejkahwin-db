@@ -1919,6 +1919,393 @@
         },
         { "name": "facebook", "link": "https://www.facebook.com/Biznazevent/" }
       ]
+    },
+    {
+      "id": "ZN1vOo",
+      "name": "Mega Glory Hall",
+      "location": { "district": "Bandar Baru Bangi", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/312945481_604938951315688_6620832552763345933_n.jpg?id=rDPMPR&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEUE1QUiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.tyvRo6_u6sAo_ULFE6UGYnQ30kUgcvzt3OMa8E5Z1Z0&signature=6d503a6161104661593da73471c6f7b1fe6e529d3efa3796ec0081a7727d98e0",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/megagloryhall"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60126131279" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/u7ELyUKDNuUFZZGE9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/megagloryhall/"
+        }
+      ]
+    },
+    {
+      "id": "WNKDAa",
+      "name": "Amanda Wedding Hall",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/363924639_676001587879515_8587443210373207231_n.jpg?id=dbde6K&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRiZGU2SyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.TVC0JYjdZVFezULFUDEnAgOemdbKlY7Hj_Lw0oLmi2I&signature=37dc9b2d938c7332ca088dd048533824a9793c73899f6ba12a62ab60de0ce631",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/amandaweddinghall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+601116625347" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/9DYVBag5zLRoiDdM8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/eventstudio65/"
+        }
+      ]
+    },
+    {
+      "id": "y6ojj6",
+      "name": "The Suite Events Venue",
+      "location": { "district": "Seri Kembangan", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/239578729_249638157163908_6989539050297256466_n.jpg?id=ArveJD&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFydmVKRCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.jlvIJxYqXXOO6BhoYtlT2-tQCIFrGDXMPEVvdghTMTA&signature=ea6f81dd1289741c2de975a8de69b8ebccd78cc32f4102bb86d71a91c475e1f1",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/+60126917575" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/JsnPGvMHvw6FmoFYA" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/thesuiteeventu8/"
+        }
+      ]
+    },
+    {
+      "id": "XD81dg",
+      "name": "Laman Bonda Umi",
+      "location": { "district": "Jenjarom", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/302325569_449902903824618_7657812364696261961_n.jpg?id=J1zvJd&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkoxenZKZCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.f_elAIrMpfvsZ87nsWWxTqo0KdFqSay_GE4Rs0NJIfg&signature=e8d23643f1747eda4ad4da0073c52bc97a24e92b84d7b5324b7354ae28ea83eb",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/+60196644461" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/GBXnzPAP8cCVX2su9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/LBUBanting" }
+      ]
+    },
+    {
+      "id": "8K66dP",
+      "name": "Tepian Rimba Villa",
+      "location": { "district": "Hulu Langat", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/314998780_513141497371612_2780447510404486427_n.jpg?id=o9GL5X&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im85R0w1WCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.8FSQ3kOa2nVwrsFzyTspiKkk4svxUZr5eIlHIyNbGeQ&signature=25bf07d990ac17fc129da25be83f20e4d96075fc290a2c6764a52f4632b76867",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/tepianrimbavilla/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60198175114" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/crQZxnZp1ZTS33Uj6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/tepianrimbavilla"
+        }
+      ]
+    },
+    {
+      "id": "R0bbvp",
+      "name": "La Putra Villa Garden",
+      "location": { "district": "Putrajaya", "state": "WP Putrajaya" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/302079395_457673593052750_3976384454727293447_n.jpg?id=Dqz6WX&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkRxejZXWCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.UMg_FQmZ6r6uMYMrw9f7rlFToz9mQMNXeU0-IxFfmD8&signature=42e3af3770767fecb01453e7c7ebec31aaac6366182a209fc8153462843feb06",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/laputravillagarden"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60102553755" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/2GHWfoeB9waEwKTB8" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://la-putra-villa-garden.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100064303381119"
+        }
+      ]
+    },
+    {
+      "id": "GzqqVe",
+      "name": "Astana Sky Garden",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/311111229_105359832358502_1523117133170623192_n.jpg?id=X50Pgz&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilg1MFBneiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.DtsRivGvsFYmZCPbSt9moxQRNHM0aIi2hAoSCmUAy80&signature=b9d83a97681935805d88c5e09939d7865f92f22fb8c0045cbb0f19f03167e546",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewan_astanaskygarden/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60192882090" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/wohAU5bBJUYwrphg9" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@dewan_astanaskygarden"
+        },
+        {
+          "name": "website",
+          "link": "https://sriastana.com/astana-sky-garden/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/astanaskygarden"
+        }
+      ]
+    },
+    {
+      "id": "R0bVGp",
+      "name": "Demi Chinta Event Hall",
+      "location": { "district": "Kajang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/unnamed.png?id=bZdQX1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJaZFFYMSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.a9L-1UIDkryGGoN4POL2oWbYrtCDwYdx_fj7jm4HUIg&signature=d5dee3ff1955812669493d517adc460e58a68fbb84f4591b65257909161fbef0",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/demichintaevent"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60174730369" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/F3UUutU44JB1AbZG8" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@demichintaevent" },
+        {
+          "name": "website",
+          "link": "https://demi-chinta-event-hall.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/demichintawedding/"
+        }
+      ]
+    },
+    {
+      "id": "e60YeQ",
+      "name": "Glass Garden House Shah Alam",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/308115383_534964781964597_4138173928104437144_n.jpg?id=X50PAL&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilg1MFBBTCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.7f0o0BwTCv089NPjk1pcEsPbzcn1tEJ5gH-LKqXNIMo&signature=afe13148924e6de2f83d96ea6e9aae5e8b2eb4a7b5f31620bcc56eb22918ef1d",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/glassgardenhouse/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60192442633" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/H2ZFQaox4G4Gakr57" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/GlassGardenHousee"
+        }
+      ]
+    },
+    {
+      "id": "ZN1ZYB",
+      "name": "RUANG Shah Alam",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/340601546_713244870598524_945211121399437959_n.jpg?id=8Nx4bP&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhOeDRiUCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.ut3BYS4SX5pFQBvVEnlpsHltu0eYpuCXZw4jIYcUb2I&signature=116776722c836563c675aa8be7e0b9c84f7dcdc268076816c9352f184e455888",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/ruangeventspace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60162034110" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/9uJkqEmFszuu6F6e9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://www.ruang.com.my/shah-alam/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ruangeventspace"
+        }
+      ]
+    },
+    {
+      "id": "a6Aaaq",
+      "name": "RUANG Petaling Jaya",
+      "location": { "district": "Petaling Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/RUANG-PJ-Indian-Ceremony-scaled.jpg?id=rDPMMN&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEUE1NTiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.55ww8iMi3DOjagnCpCTV3917fmfkn_2nNXPNxEo8Rcg&signature=1b165be4ad00792a8f2531cc4c8be23f6d71920d61d673169e13a61678e4179c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/ruangeventspace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60166344110" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/3goTAXjmNSXZkfTH7" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://www.ruang.com.my/petaling-jaya/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ruangeventspace"
+        }
+      ]
+    },
+    {
+      "id": "xpRlBJ",
+      "name": "RUANG Dewan Raja Muda Musa",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/ruang-dewan-raja-muda-musa.jpg?id=1WVoep&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFXVm9lcCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.l3bda1b_ZoR3zXY7mAhCA9gVYWPLfyupjkdw0BIcUK8&signature=8f37a9b534fadb9f218924399e8738b4a75fec75e1233c1440e77d78080c9c7a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/ruangeventspace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60162034110" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZKVsG3KB81J6cNZ87" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://www.ruang.com.my/dewan-raja-muda-musa-drmm/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ruangeventspace"
+        }
+      ]
+    },
+    {
+      "id": "EXZNeA",
+      "name": "RUANG MBSA Convention Centre",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/RUANG-MBSA-Convention-Centre.jpg?id=peOpQq&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InBlT3BRcSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.Nis1Jj0l-stHYJWBjJesUOJpbKkT79GDTjzkM1JSeFU&signature=33a4b5f66f17b982272a2f73c9e87d86d9cc807953104d1b4b9065b714a063f9",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/ruangeventspace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60162034110" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/aYL4GzDyvT7LUkGH7" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://www.ruang.com.my/mbsa-convention-center/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ruangeventspace"
+        }
+      ]
+    },
+    {
+      "id": "9WRoKE",
+      "name": "RUANG IDCC Shah Alam",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/ruang-idcc-shah-alam.jpeg?id=QoVlG8&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlFvVmxHOCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.uGREmDIjBQhrWrFYioq69Ml0VDUZtk0JZ-I80l62sro&signature=294d940ffc34ca70a73474c780bffaf1a78518cd2f7af0dd599ef35925fa8804",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/ruangeventspace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60162034110" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/LpZVi5oLfjhWTF2u9" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://www.ruang.com.my/idcc-shah-alam/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ruangeventspace"
+        }
+      ]
+    },
+    {
+      "id": "5zeMX6",
+      "name": "Puteh Subang",
+      "location": { "district": "Subang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/216194509_206306058168472_2648492361474351373_n.jpg?id=vXY57A&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InZYWTU3QSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.lJfXRBBrKpb323igZZGhZ3Nv7dE3RxJeC-ygslochhM&signature=a4ce158a50f3afea9ec47ae66132e995419e4ab91d821adfdba30f494a9a8772",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/theputeh.my/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60126326606" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/vpYWJK4XVgx1nSFDA" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/ThePuteh" }
+      ]
+    },
+    {
+      "id": "N6bd6b",
+      "name": "Dewan Anjung Kasih",
+      "location": { "district": "Telok Panglima Garang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/305107225_403408055281784_6602685314324332137_n.jpg?id=jePVe6&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplUFZlNiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.C_-K5mL6EsSxcMb0zE3aVN8fAiqSA-H6uSHlOir2cIA&signature=5fbc08fe1c23eb08d16816d96497f4ca37040044ed913d786f32cf88922211cb",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/+60142277212" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZKT5rBVy77jABRC4A" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100068377795095"
+        }
+      ]
+    },
+    {
+      "id": "EXZMJ2",
+      "name": "ROYALE PALACE CYBERJAYA",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/305401405_491461589655182_7088904240220601720_n.jpg?id=RWP9dP&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlJXUDlkUCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.bgH9YtstPLx7RmSzK0hsmV1soTIpvK1As_banldUL08&signature=a7ab120eae743cebf25207294ea97a7786118fb6ddd00e94931d641a1cecdebb",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/royalepalace.cyberjaya/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60164450538" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/smYFijTsBtWwCNYU8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/royalepalace.cyberjaya/"
+        }
+      ]
+    },
+    {
+      "id": "0xZaDj",
+      "name": "Fuchsia + Co",
+      "location": { "district": "Telok Panglima Garang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/359259519_813723693524001_5823019944821276106_n.jpg?id=EqWOdA&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkVxV09kQSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc1MTYwMH0.eCaHW9SxAvodlo45kNH2U4tuDM_Js3vz8r5cWzNbbXQ&signature=5f9b611148710aa46cbc9969c0a2d22c4dd065562c92b9696552f53e1fbe40f2",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/fuchsiahall.my/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/+60134404834" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/Mkr8VwFVmR3NsbSw8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://fuchsia-co.business.site/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/fuchsiahall.my/"
+        }
+      ]
     }
   ]
 }
