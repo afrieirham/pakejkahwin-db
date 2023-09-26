@@ -1460,6 +1460,459 @@
           "link": "https://www.facebook.com/astanafartisha.official/"
         }
       ]
+    },
+    {
+      "id": "b7YxQ1",
+      "name": "DEWAN LUGAR DE LA BODA",
+      "location": { "district": "Puchong", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/300783349_574430931136050_7680907017932206808_n.jpg?id=rDPQ2N&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEUFEyTiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.7m0ZIiX6tX-F4z0C0aLi3ugSJMKhG-G0XUTBKL-d01Q&signature=65b585856be46a5b71d2af78138658a36209bf7f1c796d4b2a6275aec9a62a97",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.facebook.com/lugardelaboda/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60163111074" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/dwirFtqZPCNRPLgC9" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://www.hananagroup.com/lugar-de-la-boda/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/lugardelaboda/"
+        }
+      ]
+    },
+    {
+      "id": "4898EO",
+      "name": "MZ D'Tasik Hall",
+      "location": { "district": "Kajang]", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/313400083_498524142316503_7235905600580153222_n.png?id=2jPYVp&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqUFlWcCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.ds141nxaU6O-vSpD-Wzdb1w7e1RSKRhXV51PZ7s0Aww&signature=39a92d0c98df5e53d1faba2b1059eb5f1b1d0d53c68ac7f103df6a6928693878",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/mzcatering_/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60143180070" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/epe18irCJDWwcv426" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@mzcatering_" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/mzcateringbangi"
+        }
+      ]
+    },
+    {
+      "id": "zqGq5Z",
+      "name": "Latar Mas Joyo by KutiqAndaman",
+      "location": { "district": "Jenjarom", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/82767843_2754025181319792_2366074350672543744_n.jpg?id=aOd1XW&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFPZDFYVyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.M3k2L9hsdjrVyasCF-I1iPu4q5sjyroWFuHavWSi0Zw&signature=5a13ecd4ea7eb5b2100790a47818044e77c55b94cf4f6efb464eab95e1f8603c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/kutiqandaman/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60193499844" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/s5xdEnU3Ei7Bpmn9A" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/kutiqandaman/"
+        }
+      ]
+    },
+    {
+      "id": "jyJBL9",
+      "name": "Grand Centro Ballroom Klang",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/197237901_285070123122686_2859239853714859462_n.jpg?id=2jPYpD&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqUFlwRCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.SyyLDh_EJHLr17LbgeTZrXvcYl8eUgcMXKfFyqZevHM&signature=050b3d83d1567a61ea73ea47c6554068bf2bf43d66b7c8e276992f9da74018c8",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/grandcentroballroom"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60164192011" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/hDyMpWxAZ7gguvCG8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "http://www.centro.com.my/ballroom/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/grandcentroballroom"
+        }
+      ]
+    },
+    {
+      "id": "V0bZ4j",
+      "name": "Royal Mustika Ballroom",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/358101358_735540461913431_1326485290912390066_n.jpg?id=9NQYVV&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjlOUVlWViIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.23otybw5UXKVM1PrbY0UDYAuKtacPHPl_2YVarGLiU4&signature=2a57f432ba9dcafca18466140cefcb013b76cd3ae99d48c272aacff33029466a",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60172333421" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/kgQdA6dHCHhR3LQo8" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://royal-mustika-ballroom.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/royalmustikaballroom/"
+        }
+      ]
+    },
+    {
+      "id": "OzbA97",
+      "name": "Letchumanan Hall",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/324863917_620216016780229_3379341543950718155_n.jpg?id=rDPQxR&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEUFF4UiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.ZLyCCe0GVLPDHP4-MByMtPJlzRQxmfRIT5R_o5N3O5E&signature=0c7cb6bb5fe70be535c1fc3d9de3b0c9147fcdfad81eea2459ce2fc58a911f0d",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/letchumanan_hall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60173181345" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/XGDkRZSrYr4TgBFZ9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://letchumananhall.com/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/letchumananhall"
+        }
+      ]
+    },
+    {
+      "id": "jyJBV6",
+      "name": "D Chakra Banquet Hall",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/282216223_102576335801654_7473218659042180693_n.jpg?id=EqWGj4&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkVxV0dqNCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.3ab_goQCGSKkEdspr_mRisY2PxuO2ghSjSPMWLeyo28&signature=c3d906427dfcffe1bd5bbd80bb882157c37c5c849a9577bbd1d42f26b4ed00dd",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dchakracreation_sdn_bhd"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126060058" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/LP2wQC9U4zneobBQ6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/dchakrabanquethall/"
+        }
+      ]
+    },
+    {
+      "id": "P6bAMx",
+      "name": "Latania Ballroom",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/298979563_732005924713162_4327900547905844142_n.jpg?id=rDP9jl&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEUDlqbCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.0QYNk0n4cODGhMjhrfEs68zC8m5jwbQh6GLZMbPHQbA&signature=75f7198e5a3afeed841262b7c0da459a3f4105ecb1f70439b0a1303aa46a83c3",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/latania_ballroom"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60163298481" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/gMEK1kM2STfxy1NU7" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@lataniaballroom" },
+        { "name": "website", "link": "https://thelatania.com/EN/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/lataniaballroom/"
+        }
+      ]
+    },
+    {
+      "id": "QDzr57",
+      "name": "Sky Intan Avenue Hall",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/329330910_921044322235865_6049715452654868910_n.jpg?id=zEYBNq&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InpFWUJOcSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.i9NKso4y8XPGSkGVwUHEIlZTWv9i1IoROxODlg0HeE4&signature=0cff4c715f00d837a5d75c3954bc47fd672f4e9a81530a247b9d828ec8f13f1e",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60142508160" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/QE3s5WHwhcajmh6m6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100083085949173"
+        }
+      ]
+    },
+    {
+      "id": "xpRQod",
+      "name": "Melrose Garden Hall",
+      "location": { "district": "Kajang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/melisa-wedding-planner-logo.png?id=9NQ0D1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjlOUTBEMSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.HPH4Zd84FVhCwljbb_Raue3f8lntIcOxcuyNVC2ewjI&signature=5bd69c656c1ef8f64cb39e3ffdfc4a119df9469a2277e360ab6094cfb1179bd4",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/melisa_wedding_event/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60173662084" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/JtUe7LtKimM9PWSKA" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@melisaweddingevent"
+        },
+        { "name": "website", "link": "https://melisaweddingevent.com.my/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/p/Melrose-Garden-100085632186225/"
+        }
+      ]
+    },
+    {
+      "id": "vAJB60",
+      "name": "Jardin Event Venue",
+      "location": { "district": "Bentong", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/167412900_138492964942476_5097518035264129984_n.jpg?id=OQGqAA&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9RR3FBQSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.LQIi_4MMe2ZAvLb-6I8TbR9b_jQxCreX_c4O6qmVrRE&signature=35e398da6cf4ba602fdbe82be667205390c07e76c3a6ef6a7794c64cdf6db0a5",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/jardineventvenue"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60122529402" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ifkuGQD2LhRL5Dnd7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/jardineventvenue/"
+        }
+      ]
+    },
+    {
+      "id": "V0bVEv",
+      "name": "Villa Damai Glasshouse",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/61005449_1046664762206493_2075972691629703168_n.jpg?id=e5ROze&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1Uk96ZSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.LPY2_kOLbauy8lB6wkbVEOZKo817MP2xoAnBpaeeGJc&signature=5b8cf9ef9939616afaf7d7f21cbccc1f048342198a9640fe92886cb243dfa3f5",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/azzuieenacouturekualalumpur/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60166426108" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/xLmyx8GegYFotVSk8" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@azzuieenaweddingevent"
+        },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "lyYLj6",
+      "name": "CK Ballroom",
+      "location": { "district": "Rawang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/348706157_260357973160477_905512489572809986_n.jpg?id=4ar0Rb&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRhcjBSYiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.Ao3vU13sZfcnqSz_sfFWIqcTpm092KaRHDG6Mb2ChgA&signature=1cca1a0efdd7466965e72db33bf6fe1dbc6b1f5d5899afcd152cef7e508bbc72",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/ckballroomrawang/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126597702" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/w84cfFGAuJNrUpo56" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://eventmanagementcompanymalaysia.com/event-management-company-malaysia/ck-ballroom-rawang/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ckballroomrawang"
+        }
+      ]
+    },
+    {
+      "id": "V0bYPv",
+      "name": "Shamelin Wedding Hall",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/261216058_580085919731856_4133408028003264903_n.jpg?id=jeP4V9&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplUDRWOSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.d4qNfoO5V6Tf2ypHmm5h2EWEIn49AmaQQi5HL4Y7ruk&signature=23b5bdb908ed06847a462110362ab81c51213138ec091536a2162565f125d0f1",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60197497870" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/SsrxXDS9VMQiY5fQ6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "LbaY6l",
+      "name": "Melor Garden Wedding",
+      "location": { "district": "Nilai", "state": "Negeri Sembilan" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/Screenshot-2023-09-26-at-11.57.00-PM.png?id=vXY6Qg&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InZYWTZRZyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.0BqZnKXsndafWSIjz43y97mgaSy6CX-gh_ZxJQuVMUc&signature=0c2d53f9ec4bdc85a1264d71f00172e321f0df338a293965a0b3e777a86b0f91",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/melorgardenwedding/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60192194356" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/eFQWRx1GV6wrQmNU8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/MelorGardenWedding/"
+        }
+      ]
+    },
+    {
+      "id": "DNxDRb",
+      "name": "Teratai Wedding",
+      "location": { "district": "Telok Panglima Garang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/34662020_2108042982766263_7829369774495760384_n.jpg?id=DqzRqN&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkRxelJxTiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.kBXK8fRFqjV9vJtMJ5rQAOds5IIFNVIeC2OPOa3KwRY&signature=90dc5818abbe42554487f55f2da1b2a089fa5769bd367e5845e7dec3bd5db59c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/terataiwedding_"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60173858017" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/CZ4AQDQkCn4CiLMR6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "V0bYk6",
+      "name": "Rinching Terrace Wedding & Event",
+      "location": { "district": "Kajang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/300379095_396556275948124_9111641808383915969_n.jpg?id=0VOq7j&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBWT3E3aiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.nLRUDrWi18vaTy9wthyC_q11JunXBnJhEf8G_ziEsKs&signature=75c17efadefd4f6b4da0d5b92b24a5d2323f9e4b376b1c2249169a54f2e636c5",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/rinching.terrace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60193908527" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/KGeg8cumHomRx6yH7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100067812654007"
+        }
+      ]
+    },
+    {
+      "id": "jyJ7bJ",
+      "name": "Dewan SM Syahidzuan",
+      "location": { "district": "Bandar Baru Bangi", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/316016232_553802830089098_8737205496695808575_n.jpg?id=OQGx4R&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9RR3g0UiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.HSK78a0B2qJDlzVHo38BpDVOsGUgWL99U8cbooZUm1c&signature=a7149dcb268aab5826005e897d19c7d2b5ff5a9f630b382455275114b8cab89f",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewansmsyahidzuan"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60177017584" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/cnBs9QN6ML5YW5YD6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/DewanSMSyahidzuan"
+        }
+      ]
+    },
+    {
+      "id": "Mb6J7E",
+      "name": "Biznaz Quayside Ballroom",
+      "location": { "district": "Kota Kemuning", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/WhatsApp-Image-2022-09-26-at-02.14.54-1.jpeg?id=PROZ6b&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlBST1o2YiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.QJ_fQQOTCcuk9CNWVPc2TEKqA0OWXuwlJlVkvdtRQoo&signature=c4281efabf13a9caf178d13a64b6fc396fc2681a1d06cd219ad5586e20c25eb5",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/biznazevents"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60103690529" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/eTdRDqkeyBaWnknb9" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://biznazevents.com/biznaz-quayside-ballroom/"
+        },
+        { "name": "facebook", "link": "https://www.facebook.com/Biznazevent/" }
+      ]
+    },
+    {
+      "id": "jyJ7YJ",
+      "name": "Biznaz Amza Hall Kajang",
+      "location": { "district": "Kajang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/353683627_792307582396805_8800059234940932528_n.jpg?id=RWPq4l&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlJXUHE0bCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.NpiVhysevqzYndNX_kA4yrS-S0ynS57mvMsFJBVkR48&signature=f72d81e0a45df28116f281ec89ec799f8f79f9cfa6658e8ef36674ccf0c297d0",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/biznazevents"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60103690529" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/RAPGffMu3ecQgVWX9" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://biznazevents.com/biznaz-amza-hall/"
+        },
+        { "name": "facebook", "link": "https://www.facebook.com/Biznazevent/" }
+      ]
+    },
+    {
+      "id": "489oZb",
+      "name": "Biznaz Cyberville",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/IMG20220716114552-scaled.jpg?id=gbG8L1&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImdiRzhMMSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.uEi-7unM69GHRVrJC38rDTRTq_AXMuTeXLuZtqv1ylY&signature=d903af3447a3be33ab6c917ce8ba8351ca2f949fd9032aa99345cfc06002eb84",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/biznazevents/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60103690529" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/kYGSsnMsSaJsPGA66" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/Biznazevent/" }
+      ]
+    },
+    {
+      "id": "oy5VbM",
+      "name": "Biznaz Insya Hall KL",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/009-pelamin-pengantin-insya.jpg?id=e5Rgxo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1Umd4byIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTc0NTYwNH0.WiUhV9ZpxBcCFKOHPOAB73wFb2_0vNmEq4Oqnx38NSM&signature=02d6f35833b814adc6d4cb44fd0c7b0e9b01067e9d1b0e84008e0a6a9ac57414",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/insya_hall_kl/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60124726449" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/BJgJaqnqBhj3FAML7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/Biznazevent/" }
+      ]
     }
   ]
 }
