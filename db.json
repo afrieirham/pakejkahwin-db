@@ -1,4 +1,24 @@
 {
+  "ads": [
+    {
+      "name": "Nama Business Anda",
+      "role": "Jenis Servis",
+      "imageUrl": "/vercel.svg",
+      "link": "http://127.0.0.1:5500/website.html"
+    },
+    {
+      "name": "PakejKahwin.com",
+      "role": "Event Planner",
+      "imageUrl": "/favicon.ico",
+      "link": "http://127.0.0.1:5500/website.html"
+    },
+    {
+      "name": "Nama Business Anda",
+      "role": "Jenis Servis",
+      "imageUrl": "/vercel.svg",
+      "link": "http://127.0.0.1:5500/website.html"
+    }
+  ],
   "services": [
     {
       "id": "0xbllB",
