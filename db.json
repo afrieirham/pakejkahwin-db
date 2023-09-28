@@ -2592,6 +2592,249 @@
         { "name": "website", "link": "https://www.loft29.com.my/" },
         { "name": "facebook", "link": "https://www.facebook.com/theloft29/" }
       ]
+    },
+    {
+      "id": "R0jRgv",
+      "name": "Willow Hall Forest Valley",
+      "location": { "district": "Kajang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/2023-02-24.jpg?id=yX97Dx&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InlYOTdEeCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.5CEOoDawI4z6wdSnh432R4ebv187z6rCD2Waqo655uk&signature=5d84532d947a9768f07ecd6de23e5f7b4815ff88f8dc63b9dc8fc01238e45d43",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/forestvalleyhall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60192944115" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/wEyNZKYacJKnaMf99" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100063488756615"
+        }
+      ]
+    },
+    {
+      "id": "YQ9Yy6",
+      "name": "Cinerea Hall Forest Valley",
+      "location": { "district": "Kajang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/2022-10-22.jpg?id=OQ5VVp&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9RNVZWcCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.FA5yr8Q5JQexm4TC2FL0TS9ipXAARLpe0tZPNGvOQg4&signature=cf770d28dff421b3ede184b9dcbd66ced73b27bd74d0a1f7f92f08367bfe37a7",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/forestvalleyhall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60192944115" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/QLwhgEQxzgJ9DTP36" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100063488756615"
+        }
+      ]
+    },
+    {
+      "id": "jyz76R",
+      "name": "MZ Garden Hall Bangi",
+      "location": { "district": "Bangi", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/unnamed.jpg?id=kb6rjr&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImtiNnJqciIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.fPXtPARJa3A2TxyUUul5IF2z_GoacKW_XD1gMTa4bt4&signature=511319bd46bba678c19418e56b6704f202c8de187d455e71c13405b41c08209f",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/mzcatering_/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60143180070" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/uDG5igfktnWxFF1g7" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@mzcatering_" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/mzcateringbangi"
+        }
+      ]
+    },
+    {
+      "id": "jyz7L1",
+      "name": "Veillaris Bangi",
+      "location": { "district": "Bandar Baru Bangi", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/306856234_563236068913953_6917784576196173585_n.jpg?id=KplRKX&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IktwbFJLWCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.hrQJzgwEwLOUz42pQxRb9rbAuQg1cyCfZ3SvapnomKA&signature=329d073f46602375c6ca95f758e89fbb1a8d222794d327283765b0d2eb7cfda3",
+      "socials": [
+        { "name": "instagram", "link": "https://www.instagram.com/veillaris/" },
+        { "name": "whatsapp", "link": "https://wa.me/60143217330" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/58kc1wmGSCSuqbLT9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/veillaris" }
+      ]
+    },
+    {
+      "id": "QD4JE7",
+      "name": "Dewan Haji Jamaludin",
+      "location": { "district": "Cheras", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/296888554_404346751795115_735677136043948202_n.jpg?id=7X2PQR&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjdYMlBRUiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.QE3WhDRVTen1NeA-pp6nJJwVr4qvCg1VcrdmKN9YdxM&signature=ba8373c736669ed567ab404e1ff65f4e415bc4dc5ededd36d679d95550ee849d",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/datinsalinajaafar"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60193692755" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/UQskatAWwNfLtiwY8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/p/Grand-Hall-Hj-Jamaludin-100066593800930"
+        }
+      ]
+    },
+    {
+      "id": "zqdQYa",
+      "name": "PAUT",
+      "location": { "district": "Telok Panglima Garang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/5096f70d-c0ec-4462-89d4-d545614624de.jpeg?id=4axEJB&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRheEVKQiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.KBHfGAMtZa-rv1zzK-1xDN0Hpmbf6EIl10zOsU9O6CM&signature=254fd14ad2c4cf22927f4cfa4264a177bbe3e7ed77c78386167f0056a7f12e7e",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/pauteventspace"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60122006481" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/SkkugGnwrda8pcSm6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/pauteventspace/"
+        }
+      ]
+    },
+    {
+      "id": "67PQro",
+      "name": "The Hub @ A-Park",
+      "location": { "district": "Puchong", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/263828837_1063874820860445_8000135448181190856_n.jpg?id=o9MgRX&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im85TWdSWCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.A0TfI7NGDBFf0TebKlwUItrxpUVlB5jFjziPKPj484Q&signature=47240de3b4e1d17d0e43d07044ca38c0a9921c3702e2eb02e42d5cbaaa4e267e",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/a.park.events/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601163324351" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/2qpaznFurTYCfyLj9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://a-park.my" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/a.park.events/"
+        }
+      ]
+    },
+    {
+      "id": "r6Yrq2",
+      "name": "Riyaaz Event Space",
+      "location": { "district": "Puchong", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/302712644_595694808731960_3124551606116935235_n.jpg?id=o9MgMM&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im85TWdNTSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.tIlDXuNrfo_yJ32oz4IA_AYf8oAql1i_e4EtjOHQTBU&signature=de36308eacdb48063cb9b9eb04d6033ba4fa69ca4f0c7dbbcbb37bc665166066",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/riyaazeventspace"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60123693697" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/YmdcAoGDBycCYHHy6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/riyaazeventspace/"
+        }
+      ]
+    },
+    {
+      "id": "xpzN7r",
+      "name": "Klassy Space",
+      "location": { "district": "Puchong", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/269840897_433813235081486_2284120928770728503_n.jpg?id=OQ5rzk&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9RNXJ6ayIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.gXXo3EDa4FQaqKJCVXwYg_YkjwelKea9gGCT9j03PS8&signature=8785558b0cdcebcf2dd4420d9f3dcf8e76a2e5a2c5e502e0970b329797627b67",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/klassy.space/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60146345451" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/XBg4H4TZeYW8vQ15A" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@klassy.space" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/klassy.space/" }
+      ]
+    },
+    {
+      "id": "P6rBVd",
+      "name": "GERBANG ASTAKA EVENT",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/375462783_319735587245577_1000872224865120538_n.jpg?id=YjWeOv&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IllqV2VPdiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.IlEdpaG97SqhqRY60T2fyO1l_lcoDGgg0kf_P_5EPxE&signature=63ea7b22b505a679c84945d5159b139512b5040344a536d2261bd2b0e30956a1",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60135144069" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/wf3m4efiJ2RHYKj7A" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://gerbang-astaka-event.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/gerbangastaka4069"
+        }
+      ]
+    },
+    {
+      "id": "1lRG44",
+      "name": "Boathouse By The Lake",
+      "location": { "district": "Ampang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/306126871_406917258216702_8942058512808469708_n.png?id=5X1rQd&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVYMXJRZCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.144O6huLXHRc2rMtkadh1d8o7A3Xpa6wm8SpS9aeZXM&signature=3c22c51dd51ddd0320b3c6418a00eda1c263e62c843044823cbf1d0d163e1d34",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/boathouse.my/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60177066044" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/SrEMvuwnxsQGstna6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://boathouse.my/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100066952929270"
+        }
+      ]
+    },
+    {
+      "id": "9W42dE",
+      "name": "Ampang Glasshouse",
+      "location": { "district": "Ampang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/295513465_463764755753888_2412066605263843998_n.jpg?id=1W7O5M&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFXN081TSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTkxMDQxMH0.kIDLbOfXvDnZzYDQZcb40QTW7xyQnw-6VUQt6qSy33w&signature=48c8deb601ef6df19b9959118803ed2b4dd9d6abaa0a2bf4763102703abfd11e",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/ampang.glasshouse/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162013692" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/KQwXYdGznLkTXMZi7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://ampangglasshouse.com/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ampangglasshouse"
+        }
+      ]
     }
   ]
 }
