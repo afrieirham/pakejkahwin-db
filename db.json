@@ -1,5 +1,13 @@
 {
-  "ads": [],
+  "ads": [
+    {
+      "id": 1,
+      "name": "The Fine Flowers",
+      "role": "Florist & Event Services ",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pakejkahwincom.appspot.com/o/services%2FIMG_0747.PNG?alt=media&token=b10bec13-8b60-47f8-b3a8-d31de12aee3d",
+      "link": "https://bit.ly/48rIwUN"
+    }
+  ],
   "services": [
     {
       "id": "0xbllB",
