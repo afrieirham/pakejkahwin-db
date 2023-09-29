@@ -3029,6 +3029,480 @@
         { "name": "website", "link": "" },
         { "name": "facebook", "link": "https://www.facebook.com/kedidigarden" }
       ]
+    },
+    {
+      "id": "P6PxRP",
+      "name": "Puncak Rimba",
+      "location": { "district": "Bentong", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/291407897_467155265412131_6573907007659640722_n.jpg?id=jeQ1xx&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplUTF4eCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4MjUwMn0.1mm-Uim3qWMIODHtB7oSEwOAkPUdVVKvoEuS9taLu58&signature=9371c72fe7b95ee7ac84c8518fa3562d195fcd8bc34e61df288726ba1428d655",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/puncakrimba/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60103698793" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ekiRnkeZwAmxmyiM8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/puncakrimba.my/"
+        }
+      ]
+    },
+    {
+      "id": "48G69b",
+      "name": "Jardin Event Venue",
+      "location": { "district": "Bentong", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/167412900_138492964942476_5097518035264129984_n-1-.jpg?id=vXyo4v&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InZYeW80diIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4Mjk4NX0.wfZlG0Lrb8rbAp5onGruB0MWiR016G265VQhAzuKJLY&signature=6a7c28bd1224a9191fe7259034a34deba8d823a2752d54ef1d8ab7ddf3616b37",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/jardineventvenue/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60122529402" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/iJzwRrx1Tjsqtu6Y9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/jardineventvenue/"
+        }
+      ]
+    },
+    {
+      "id": "1lBLWM",
+      "name": "Widad Villa",
+      "location": { "district": "Port Dickson", "state": "Negeri Sembilan" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/352512652_798822955300872_725172070278741420_n.jpg?id=zEDPLE&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InpFRFBMRSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4MzU5N30.5GBiC8ADMvkxE77qCwGoySFMioAzk2tXaBTi3b4htbA&signature=32e0da9aadfa0631789d42ae6e061b301e13364130b7d015a58990e1b5816ae6",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/widadvilla/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60166579638" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/U3QbYP7juRQnuEZH9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "http://www.widadvilla.com/" },
+        { "name": "facebook", "link": "https://www.facebook.com/widadvilla/" }
+      ]
+    },
+    {
+      "id": "BX9rdA",
+      "name": "Aliyyah Castle",
+      "location": { "district": "Rawang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/345599798_919164779288144_63835868285420850_n.jpg?id=e5ekvo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1ZWt2byIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4MzY1M30.vwh1-81aZURGh9X1GkTi33FcuFBKdHS4dKixhoLjcws&signature=bbedaaf922c2b435fe379df27b10835c9d4b614c775e3e0e2a10dbb9250048f7",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/aliyyahcastle/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60192428760" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/2pHL2jXGRLfHpxvH8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/aliyyahcastle" }
+      ]
+    },
+    {
+      "id": "P6P7Y1",
+      "name": "K'Seena House",
+      "location": { "district": "Sungai Buloh", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/305765633_475036257963648_1714896081135716450_n.png?id=jeQ1z9&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplUTF6OSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4Mzg5Nn0.cTjEJnb8dm_94ruY_WEpZtcXVH1YsvK03ODeqvFc0kE&signature=fc835e1e02974082d17bea431e2c3c63470e0874633680c1226d62539d5c32ca",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/kseenahouse/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126147554" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/a7rSLTSYryAGREP79" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/kseenahouse" }
+      ]
+    },
+    {
+      "id": "ZNQMGB",
+      "name": "ASTANA SHAFIIS HOMESTAY & HALL",
+      "location": { "district": "Masjid Tanah", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/304867082_489735399827717_1142665995366035819_n.jpg?id=1W7qO4&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFXN3FPNCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4Mzk3Nn0.JONon7G3IF3GZsnJYK9naKcMAQQGxRSTzj6iOZPWyaA&signature=376b61a636536c5cd9da2958722f8b9ed12b40c34b85b4a4fb962f33a246d175",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/_astanashafiis/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601133932748" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/J7g236LE9sdpsQCr7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/astanashafiisservices/"
+        }
+      ]
+    },
+    {
+      "id": "9Wr8KX",
+      "name": "DeCassa Mahligai",
+      "location": { "district": "Batu Caves", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/365411552_116942988153126_7732427994337324705_n.jpg?id=RW5EaK&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlJXNUVhSyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NDQwNH0.Z-cQq3wfnCiaiIwecgIaKEKbENIZ_IDg_-9TPJ7E9Xo&signature=7618760f29f25fe0681402974c8d9fe24c561cd156e33e768d8977ee463961b6",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60166730990" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/iDXM93oAH8dhRi3q9" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@de.cassa.mahligai"
+        },
+        { "name": "website", "link": "https://decassamahligai.com/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100095122767453"
+        }
+      ]
+    },
+    {
+      "id": "r6qe72",
+      "name": "Restoran Astana Puteh",
+      "location": { "district": "Masjid Tanah", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/344924147_1453401122064985_7691478069738790202_n.jpg?id=jeQ121&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplUTEyMSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NDQ4MX0.7avmfD5Rm6rnlgTcsDlGe-DcFzWr2hwal0IFJ9P1OSM&signature=d11fe52c942e2df08b59e219303e49dd50bfd29a2cc2be8a1b7051c18f7d6c0f",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/astanaputeh/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60127741990" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/hK44bMMargVFzsht5" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/astanaputehgardenwedding/?locale=ms_MY"
+        }
+      ]
+    },
+    {
+      "id": "d6R7Wo",
+      "name": "Tapaq Sanding",
+      "location": { "district": "Batu Caves", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/368367827_1246824522698384_4243181505152321037_n.jpg?id=zEDPRk&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InpFRFBSayIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NDU5Mn0.bPL_hjTVo_VfCbDGvXqAz0IYJs1VZyBMvh00qd7sUtM&signature=3d634718807da460cc1c2601f83541722db5370502a4346fb184ac8bd5df0a19",
+      "socials": [
+        { "name": "instagram", "link": "https://www.instagram.com/gzamsm/" },
+        { "name": "whatsapp", "link": "https://wa.me/601111144940" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/4kTXRm1dZnUhJwTs8" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@tapaq.sanding" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/GZAMSIREHMEMPELAIOFFICIAL/"
+        }
+      ]
+    },
+    {
+      "id": "9WreQG",
+      "name": "CAMELIA EVENT SPACE @ Fiesta Mall",
+      "location": { "district": "Ampang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/275289092_712772980104687_6744237170116529798_n.jpg?id=dbxBod&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRieEJvZCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NDc0NX0.vnQIvJZh3BssvHL4FLxLlD9dr5zvkgX-Xk0VG8wDP6A&signature=7405ffe0be0cc0db9d5f7a1d491ea567aeb64abc8aab215f6793a337a49d90cc",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/camelia_event_space/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126446840" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/n2sF9uC5y8s4XuqU9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/CameliaEventSpaceAmpang/"
+        }
+      ]
+    },
+    {
+      "id": "J6ByVX",
+      "name": "Thetamu Wedding & Event",
+      "location": { "district": "Tanjong Malim", "state": "Perak" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/270111368_102692595628106_5906059503799049271_n.png?id=OQ5OqY&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9RNU9xWSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NDk5Mn0.16WIapnEKkjcwASbN9WZjkraTZtg5Vx7zr3jcd27s2g&signature=963ce31bbd5f0192f2a99b00c81755673c7f95f0237407ca31e89a8082dab0c4",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60125892102" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/LmbZH8YbJokRtNum6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/TheTamu/" }
+      ]
+    },
+    {
+      "id": "EXapZl",
+      "name": "Glasshouse Little Klebang",
+      "location": { "district": "Klebang", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/304629254_480806227386564_4538897483147784640_n.jpg?id=e5ekGl&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1ZWtHbCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NTA1OX0.WiJLR3h1F2NAwMfbrw0i_77ZY7l-JhQF5myuPD1XtFo&signature=c0c7597f37a06aab984d0f04460c1feb4684910ee479ca58a944a9cda278628e",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60162057996" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/c9ELy3bNd2N45Tj76" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/littleklebang/"
+        }
+      ]
+    },
+    {
+      "id": "8KE9rP",
+      "name": "The Land Bentong",
+      "location": { "district": "Bentong", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/307291153_773851690635461_3493990710173114099_n.jpg?id=kb6MBe&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImtiNk1CZSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NTEzM30.SFRn63VEH4j6s6IscksvJ4Qe5-CsV15C7Zi0Jz7hF_I&signature=b15194912d844145c6436dd1f50fca4fd6b5663b95590cc40f9a1cabc553057b",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60193321416" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/zfieM1JaXu6FTGbAA" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://thelandbentong.business.site/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/thelandbentong/"
+        }
+      ]
+    },
+    {
+      "id": "EXapoo",
+      "name": "Ckin Anggun Collection",
+      "location": { "district": "Mentakab", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/305213028_521805953285038_8572176356141039612_n.jpg?id=Z96q7o&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilo5NnE3byIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NTM5N30._CFrZdVX6J1rpPDRJKA974nUVqxQMX3PCdDtx6cRWns&signature=5861583b94611ed5355b8ec3a1a6ef0a4c12ec33d11df469c6dea450574f8d60",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/cacweddinghall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60145115587" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/djg8TGtuxpYEVqci6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ckinangguncollection"
+        }
+      ]
+    },
+    {
+      "id": "5zONPP",
+      "name": "De Villa Melaka",
+      "location": { "district": "Klebang", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/305453287_932774637675382_7017104290793037334_n.jpg?id=OQ5OMR&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9RNU9NUiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NTQxOH0.QAYVKXudak8trXZHNGkILv34I2wSfnu6gDLvqekdVk4&signature=8214c744f74d23079f71b1369ff36810f3a5b3806a12bee31c589b5b78a3b3bc",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/devillamelaka/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601110843635" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/xF24xrLqyeyQR8k28" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/devilla2u/?locale=ms_MY"
+        }
+      ]
+    },
+    {
+      "id": "R0rOOv",
+      "name": "Srikandi Cintaku",
+      "location": { "district": "Mentakab", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/357703979_777713071026653_7370951693442804516_n.jpg?id=o9MXPP&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im85TVhQUCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NTQ5NH0.H6IXrLjpvkljIRApSF6hxnjD2gcruoVcPYM5dQhQW_o&signature=ed986728c4e58fee20fb2b62eb55a5a53398fe77958df4ce7a4036504201fd4d",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/srikandicintakuhall"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60139866557" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/LNxkWR8eNVuYmdqx6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/SrikandiCintakuHall"
+        }
+      ]
+    },
+    {
+      "id": "N6OkVQ",
+      "name": "Aqua Crystal Hall Kuantan",
+      "location": { "district": "Kuantan", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/278839310_715850996402512_8564316095628948440_n.jpg?id=Ged8Wo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdlZDhXbyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NTkxMX0.rkUKzz1ui-Uf-lT_CnQc-lsUS2s-y2dPgI1scefeAys&signature=ce9abaa6d5464733a8e3998db3714ca22cfef7bb6f5fa761981c6f82f4139154",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60194568902" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/TvsobwTGmhoKnmK46" },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@aquacrystalhall.ucyp"
+        },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/aquacrystalhallUCYP/"
+        }
+      ]
+    },
+    {
+      "id": "QDELJA",
+      "name": "The Balairong Pokok Mangga",
+      "location": { "district": "Bandaraya Melaka", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/308976675_538602488070792_7053824013245507469_n.jpg?id=9NDb8p&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjlORGI4cCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NTk5NX0.loW3D9hr2GpaNrmEZyBvXIr5UKCKeDftMoPIjiTiW3A&signature=de1a21b23c82430182025881e2d89cda56a489c0135eb6d6b8a31bc8106651db",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/thebalairong_pokok_mangga/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60173199409" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/K9ksbGnmhfVwAW8dA" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/balairongpokokmangga/?locale=ms_MY"
+        }
+      ]
+    },
+    {
+      "id": "e6o4KJ",
+      "name": "White Hall Event Management",
+      "location": { "district": "Kuantan", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/378517115_316720360899905_2266873340949364859_n.jpg?id=YjWNLd&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IllqV05MZCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NjEwOX0.yYeUM5_vrrKkeffJPfOHGcnZxQcqHnh1kdCJZYyJan8&signature=6a1e23db8a8c4268782ec1a13e0ddc1d945935c6329e51926fa0353c6bb9ad69",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/whitehalleventmanagement/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60199870522" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/kuDsafc73PjW65Ax7" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://linktr.ee/whitehalleventmanagement"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/whitehalleventmanagement/"
+        }
+      ]
+    },
+    {
+      "id": "oyxWgb",
+      "name": "Dumoh Kuantan",
+      "location": { "district": "Kuantan", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/302276461_790504632162893_2480983969539652449_n.jpg?id=BEkMO7&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkJFa01PNyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NjIzN30.fBncjh1YzCpFKAllnjIXngTVjNf7OuQzdQ6d38jEcQA&signature=0782d7688bf6b6e30ade89d4870755812a6ec1a118fbb08c043a7568b3321dfa",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dumoh.kuantan/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60199135534" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/yLLRMTk4WXoEgSek8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/dumohkuantan" }
+      ]
+    },
+    {
+      "id": "7WPGOR",
+      "name": "LeQAMR Glasshall",
+      "location": { "district": "Bandaraya Melaka", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/302084245_119887174171502_7456114120586280115_n.jpg?id=WJ5xGJ&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldKNXhHSiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NjM1M30.KDLspCT9Ug2cKoRzMmY64_gVyghxZIvd7oUguXxio7s&signature=a7319d20be90de09262f5731a95322a75ebbe542b4751898a00ce2e99342d515",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/leqamrglasshall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126428928" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/LKTYPL9mCWvxX5GV8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://leqamr.com/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/leqamrglasshall/"
+        }
+      ]
+    },
+    {
+      "id": "EXa9oX",
+      "name": "Kimstone Garden Hall",
+      "location": { "district": "Kuantan", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/316671133_503512835150994_3181521140853054097_n.jpg?id=BEkP47&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkJFa1A0NyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NjQyMn0.LnK-hEKmbldYpt0uat9QBDZJm6ZiRluo_V39jThCF5M&signature=83776fcd4da0a2c7a413f73a441f66a48543ee783b55d99a79a6a4b43b84d0ea",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/kimstonehall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60199284277" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/fzDyL9Gaf2nwcgF99" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@kimstonehall" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/kimstonehall/" }
+      ]
+    },
+    {
+      "id": "0xAXN0",
+      "name": "Timorra Venue",
+      "location": { "district": "Kuantan", "state": "Pahang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/366949115_764131229052223_7772725620591005620_n.jpg?id=7X28X9&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjdYMjhYOSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NjYwMH0.EziZ6zGo-cO6jJxvZHbp2u2r_gUTZRTJDDX-bC2DmLs&signature=6783b579cd32192010f9513e5e40338b7a698a47dec533270a13e58e73ae883a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/timorra.venue"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601169368906" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/1CCGnuXsUqobZmE47" },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@timorra.venue" },
+        { "name": "website", "link": "https://www.timorra.com/ruang-acara" },
+        { "name": "facebook", "link": "https://www.facebook.com/Timorravenue/" }
+      ]
+    },
+    {
+      "id": "xp6OJd",
+      "name": "Dewan Anjung ISDA Melaka",
+      "location": { "district": "Cheng", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/257971475_859982077962764_4327497007935083296_n.jpg?id=2jNMXA&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqTk1YQSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NTk4NjgwN30.m_ghQvmhxCzhRLCBiBsPjEYz0KyuJt8XesUsKL8r6v4&signature=ef7b7d7df38fd73b42a60fb2e23b01ba1713b866def0a22ac4cc33bcf053b13c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/isdacateringmelaka/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60182880239" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/GzGvyWw47SCad3jX8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/ISDAEventSpace/?locale=ms_MY"
+        }
+      ]
     }
   ]
 }
