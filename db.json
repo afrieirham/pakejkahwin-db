@@ -3503,6 +3503,114 @@
           "link": "https://www.facebook.com/ISDAEventSpace/?locale=ms_MY"
         }
       ]
+    },
+    {
+      "id": "lygNZW",
+      "name": "Hawa Garden Hall",
+      "location": { "district": "Ayer Keroh", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/hawa_01.JPG?id=yX6PL4&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InlYNlBMNCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NjAwMTE4Nn0.Mcot93jc4TojBVOdDnvUYmbNhCx-etnlbJi-RRRpJcw&signature=ff48e178836bb331d706de805ba6d82cb99fc17e3b6d4cb60e2f60b226ec2ba3",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/adamhawa.weddingconcept/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601111437401" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/VQCiqNzuRyLf147e6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/adamhawa.weddingconcept"
+        }
+      ]
+    },
+    {
+      "id": "xpgdqE",
+      "name": "Adam Crystal Ballroom",
+      "location": { "district": "Bukit Katil", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/1C8A8401.JPG?id=4a84eb&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRhODRlYiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NjAwMTQwNH0.VZISBHtnQeKvNFWAnIwQM7orLjwYU_z4sYtBtnMsEL8&signature=0984bb487cb09b5cf3d78c15abfdf45bbb567ef9e96dbb49264f2defc506cdf5",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/adamhawa.weddingconcept/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60174730369" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/eEiG6vAmY1pjp4q39" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/adamhawa.weddingconcept/"
+        }
+      ]
+    },
+    {
+      "id": "8K2keY",
+      "name": "Garden Wedding By Aman Sejagat",
+      "location": { "district": "Bukit Pulau", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/133832076_518552899058977_8178937840391073612_n.jpg?id=EqXqKL&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkVxWHFLTCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NjAwMTg3N30.o1XwSqrBXAuzHUrILt4MFQaknrZw70ZaD4FfUSQKpHw&signature=492074fad00c3056f4db498cc980cd5612fe0d298c782e351ef0ee32dca48df6",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/aman_sejagat_caterer/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60166314043" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/VC3xgQqfF5njqAQNA" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/byamansejagatcaterer"
+        }
+      ]
+    },
+    {
+      "id": "48EkqY",
+      "name": "Seri Chendana Ballroom & Cafe",
+      "location": { "district": "Ayer Keroh", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/279417551_377626847715746_6037982238618941077_n.png?id=vXAXP4&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InZYQVhQNCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NjAwMjIwNH0.OqJTSv3oQRieYQjBKmwcLzxQextBHatlDL8nQyd_EP8&signature=785f5261ae0406820993dfd31c13d7685a7e2efed170d7d2227dab6fa6ea2237",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/serichendanaballroom/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60106599004" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/DeNBXaLz6xPnM7Sf6" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://serichendana.com/meetings/Ballroom%20&%20Cafe"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/serichendanaballroommelaka"
+        }
+      ]
+    },
+    {
+      "id": "XD9GPO",
+      "name": "Grand Kaca Wedding Hall",
+      "location": { "district": "Durian Tunggal", "state": "Melaka" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/367995094_665926395438690_7181896598111222485_n.jpg?id=4a8a2A&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRhOGEyQSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NjAwMjM4NX0.iIZSlu-zX--1z8Oj9i7SADSDRvNekFC7Dm4jG2mQkC0&signature=8b0f773b551b3900919a0716fd3f0c6fb825e6ba40fc715de2ada6cd31102664",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/grandkacaweddinghall/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60183997585" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZyqknVQiyjzbKDb16" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/GrandKacaweddinghallmelaka"
+        }
+      ]
     }
   ]
 }
