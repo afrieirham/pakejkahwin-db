@@ -3844,6 +3844,246 @@
           "link": "https://www.facebook.com/berandakasihhululangat"
         }
       ]
+    },
+    {
+      "id": "OAaGoR",
+      "name": "The Alnia",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/348708133_9430061243735653_1019243807872331158_n.jpg?id=J1J1kX&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkoxSjFrWCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NzEzMjQ1NH0.CmSHD4IFJwJsG71aqPilWdltI8cGRXga2tIck89UHJI&signature=a16bab7503d71abfe82035ba106d4435c78de02646f7ca315ca527e4e6afbd19",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/the.alnia/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60192550439" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/3r3dr6bGsH14REzY8"
+        },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/p/Dewan-Perkahwinan-The-ALNiA-100063589807908/"
+        }
+      ]
+    },
+    {
+      "id": "ylMYW8",
+      "name": "Villamay Shah Alam",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/37753391_108976710033294_923052883534938112_n.jpg?id=o979vx&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im85Nzl2eCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5NzEzMjk4MH0.0MHCe0z1eEDf9smKoAK2siueuKlsLbk_3r6q1IZ70Tk&signature=2bc4fd342debf12812e7444f318d1d367d1ceb12a087470e4aa7948a13446361",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/villamay_shahalam/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60166617401" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/9pcwd7L7NqysYSby8"
+        },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/villamay.shahalam"
+        }
+      ]
+    },
+    {
+      "id": "PAGbkb",
+      "name": "Inara Gerbang Hall",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/PB9aam3J_400x400.jpg?id=OQbo7M&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9RYm83TSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODE2NzM1MH0.jgMCNSjruwywfZD7CC8-GJ3hGY-yurd5rIlQVFEZYVo&signature=fe72b7b737d184f6843b5957501877020e5fceeee863dedd8ad899d269535173",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/grandgerbanghall"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601139336368" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/iGnwJvsbbjzX9Zps6"
+        },
+        {
+          "name": "tiktok",
+          "link": "https://www.tiktok.com/@grandgerbanghall"
+        },
+        { "name": "website", "link": "https://www.gerbanghall.com/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/grandgerbanghall"
+        }
+      ]
+    },
+    {
+      "id": "lNMYjV",
+      "name": "Pondok Damai Event Space",
+      "location": { "district": "Klang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/290746971_498832405438922_4343546303167641332_n.jpg?id=KpWa1g&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IktwV2ExZyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODE2NzU0NH0.xzYZdlggwU9QfeC2r6xlzNxc0o3JL9Aq39ZdMpmRZIY&signature=a582d027f33c465a4519e79bf59ad3c205ced6051a43cde633e4f983f0cb376a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/pondokdamaieventspace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60199801774" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/8xXJZcXbGgiuJRPt8"
+        },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://pondok-damai-event-venue.business.site/"
+        },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/pondokdamaieventspace"
+        }
+      ]
+    },
+    {
+      "id": "oAkkR1",
+      "name": "The Hall",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/358717012_677683687710010_7607664024811641506_n.png?id=gbJkL4&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImdiSmtMNCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODE2Nzk1M30.eRin88q8Fri24ZV6X-GCpXqCD53wuLvffOVVDm1iXaY&signature=de0385d6b3021ba63508677b7df059ad98a87b6529862bba9859e870cfe306e6",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/thehallkl/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60149478932" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/mu5RAsKZ3J1oLg5B9"
+        },
+        { "name": "tiktok", "link": "https://www.tiktok.com/@thehallkl" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/thehallkl/" }
+      ]
+    },
+    {
+      "id": "7dpp9a",
+      "name": "The Estate on Federal Hill",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/240311260_107344221674565_3334132095288261010_n.png?id=8N6RP5&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhONlJQNSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODE2ODE3N30.nly6PSQoDLCENQfEKOJOPlHuErXt8avXypo0mqSrxY4&signature=2a26c6f732c42702f27dec5ef7511667686aaccf0aaf4ac7b5a3e1e11b134709",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/theestatekl/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601114379493" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/ZX39eHs686ur8Wuf6"
+        },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://theestatekl.com.my/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/theestatekl/"
+        }
+      ]
+    },
+    {
+      "id": "J2WWbJ",
+      "name": "The Diplomat KL",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/309895935_525866819545701_5876069343061053363_n.png?id=J1eWXd&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkoxZVdYZCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODE2ODQ1Nn0.WWO1BBqPcTY_gfZP7DkfEfWIUmsvTl8ChGY9G4OK1_k&signature=27fe370c484de444cb520c1e85e8e0bef1db35979d647eeb4e3de70c810fc727",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/thediplomatkl/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60122676767" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/uBA4to4kwFN6q6fY9"
+        },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://www.thediplomatkl.com/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/thediplomatkl"
+        }
+      ]
+    },
+    {
+      "id": "oAkkq5",
+      "name": "Bayswater at KLCC",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/327164746_1111862309487127_2012699403615335360_n.jpg?id=X5822O&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilg1ODIyTyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODE2ODYxMX0.YfuC6UhgcpOr9CWITC8Wg0rTJvVAZhAhGG2sQCJpIlU&signature=70c68f2713a5355ab65f6f7bbcb69ed2301227f014096c64aab0fff8eb8c44ac",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/bayswater.klcc_eventvenue/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60165553025" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/ZUpkTWT5szQhj2bK8"
+        },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://bayswaterklcc.my/" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/bayswateratklcc/"
+        }
+      ]
+    },
+    {
+      "id": "aBavNX",
+      "name": "Duchess Place",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/302685281_493831486067366_6414115480201798325_n.jpg?id=9NRo41&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjlOUm80MSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODE2ODc0NX0.vWMQS5Ypil7T8Bih8ndxBb_ZfydiyyQ2rrSmDW2EH9g&signature=95600ac27361288fa41a2fc82fe5cd44a09c18c3e8419f21351008f022dc639c",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/duchessplacekl/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60172100295" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/1o4oimBDdhydAg1M7"
+        },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/officialduchessplace/"
+        }
+      ]
+    },
+    {
+      "id": "dYkvao",
+      "name": "B'york KL",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/287061451_150423017530882_7253681651559318854_n.jpg?id=0VZDA0&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBWWkRBMCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODE2ODg2MX0.4RHgk7ydK-FnLcfLyppvkg34ZXqiEHDlxm2fdsR2Bug&signature=f9c320c7a4b4a92b84b71efcc38326a3f78ed14d3cea53cd297c31600f755304",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/byork.kl/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60122310606" },
+        {
+          "name": "maps",
+          "link": "https://maps.app.goo.gl/JtwJg76d1eJXVeux8"
+        },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://www.byork.com.my/" },
+        { "name": "facebook", "link": "https://www.facebook.com/byork.kl/" }
+      ]
     }
   ]
 }
