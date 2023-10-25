@@ -4084,6 +4084,186 @@
         { "name": "website", "link": "https://www.byork.com.my/" },
         { "name": "facebook", "link": "https://www.facebook.com/byork.kl/" }
       ]
+    },
+    {
+      "id": "DVaq6q",
+      "name": "WG Glassbox Cyberjaya",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/IMG_3796.jpeg?id=RWbOrp&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlJXYk9ycCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0Mjg1NX0.iW-gmA1mLA-3Z3mYTVrNs8A1pchmH4OFUymIwhFRt44&signature=29f761ea89392dc90812a11c69f5acba949a3a1f641b215602d1f01daecbaf9d",
+      "socials": [
+        { "name": "instagram", "link": "https://www.instagram.com/wgglassbox" },
+        { "name": "whatsapp", "link": "https://wa.me/60136155751" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ZX1G7uTmh7x42Zz3A" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "1rRXA4",
+      "name": "The Glass Galore",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/317776055_510983374396792_5470985016625915774_n.jpg?id=rDJXWL&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJESlhXTCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0MzAyNX0.D_ybRCDrVjCuAXMwfLTTq4B8v5dbEG_16ffzomOMEYw&signature=498ee8dc02d76cd71c140606e8f7864c06abb27829b4bf1534b1900303396a12",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/theglassgalore/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601157779443" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/4oZgAiyLLV9ydSDb7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "XeQLWL",
+      "name": "Shaftsbury Asteria Cyberjaya",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/301693984_121478093980050_680255243006328985_n.jpg?id=VpbrBl&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlZwYnJCbCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0MzE2OH0.sdxk1YoCYWZHMN8p8ES8r9jfzJ7VUTnn8iLr9qU-3bc&signature=66127091ba2c6b7e06465b6f4a0070ef815f447b6864edf10618806b94901c38",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60123557092" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/jYebLehoJvhyCSHbA" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/asteriacyberjaya/"
+        }
+      ]
+    },
+    {
+      "id": "8drqAA",
+      "name": "Simply Glam Hall Cyberjaya",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/357513713_120781277726274_3097810274595330306_n.jpg?id=BEjvY4&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkJFanZZNCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0MzM3MH0.CMb9IuMJw46u-WpwuNqUpAPVwKiHcmFjfdc5A_f8B4k&signature=05e5d97ec4e811332a17f85ab8d43d5f6c9df3f23304244bfd42ab26ad38aa10",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60124030059" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/5hxJvpyskmsfczpG7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/SimplyGlamHallCyberjaya/"
+        }
+      ]
+    },
+    {
+      "id": "yl1MOB",
+      "name": "Astana Orchid Hall",
+      "location": { "district": "Cyberjaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/310644165_1280972162637759_6125965370353182590_n.jpg?id=X58jPP&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilg1OGpQUCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0MzcyOX0.pAqj0AoAs51_CH6jFm82R233KcfwO2RRz3zWMyQSYzk&signature=989a6c46e3c0d23797d1e91907fc466cd12f0020a1e9452d198b39b2fe426ba4",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60197902090" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/bfDV4hKnEpiijxhh6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/dewanastanacyberjaya"
+        }
+      ]
+    },
+    {
+      "id": "YZ9RrW",
+      "name": "Jannah Event & Wedding Place",
+      "location": { "district": "Beranang", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/281206507_1433389313776934_4521575371136468517_n.jpg?id=Nqbzzj&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik5xYnp6aiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0NDA3Mn0.lT2cmJNClNLqHNAjTxgCVvlg8Mt9aPMy0iXsOhFLbKQ&signature=62ad4d9e7103f68dcc3230b28fa63eeb2b051a60c6060843428d58601b3ea26a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/jannahweddingplace/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60127878840" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/7itGtpXitS4J82RF8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/jannahweddingplace/"
+        }
+      ]
+    },
+    {
+      "id": "kYz9vM",
+      "name": "Putera Garden",
+      "location": { "district": "Nilai", "state": "Negeri Sembilan" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/270215280_1071900506932591_7659943996763532445_n.jpg?id=LDa8Qv&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkxEYThRdiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0NDI2NH0.-iMhX7S6YcrznAIC78M0J9jD0QBPOZ-wNj5Ik_2G5hQ&signature=1d5e8f9fd7667bd7b10699a0b13615c7c869c11712b1cd092a2e3efa6c63eb4f",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/puteragarden/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601110766471" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/ccUhF4n7PWRaSAhc9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "GrbKVQ",
+      "name": "Dewan Perkahwinan De' Emerald Garden",
+      "location": { "district": "Banting", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/21568694_143096316297397_2857735522086813696_n.jpg?id=2jl08L&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqbDA4TCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0NDQyM30.y9OyOoixdW64mwHvTeX2J2DFNehza_5X_X3YwkGTnvY&signature=1759cbe566c083d7de266f7d240aa9b8e8426df5150ea45553751bfb819fc486",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/de_emeraldcatering/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60172900343" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/W1EPEmvXfSTc6qQ26" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://deemerald.com.my/" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "0EkBeZ",
+      "name": "GLAMHALL DAMANSARA",
+      "location": { "district": "Petaling Jaya", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/278322147_373876108083362_3817604899668154126_n.jpg?id=jeJNbR&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImplSk5iUiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0NDczMH0.xm0LOHcTLmpSXcy3sQgLedya9U--twJrar5CG2oZOo8&signature=669064bb31d3ca6b9536d1bb62808b872541b6c561889ae113350899033b8b51",
+      "socials": [
+        { "name": "instagram", "link": "https://www.instagram.com/glamhall/" },
+        { "name": "whatsapp", "link": "https://wa.me/60162300234" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/TRuhAYDD56dQr3bN7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/glamhall" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/GlamhallDamansara/"
+        }
+      ]
+    },
+    {
+      "id": "KMG5Pg",
+      "name": "Laman Khadeejah",
+      "location": { "district": "Ketereh", "state": "Kelantan" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/311581418_639136771034796_6754841883001321984_n.jpg?id=PRbKOd&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlBSYktPZCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODI0NDkzNH0.acpiZG3GcFQhF2c_bXwyoQ04rbB6lYDoJY3bJKZ4lA8&signature=eca390b7a40d5133cf6ed6b384fdf005e418a1ae73da85ecc1726c8eb0b1b1a4",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/lamankhadeejah/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60129872007" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/nz3w4Bu8nFXcnYiGA" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
     }
   ]
 }
