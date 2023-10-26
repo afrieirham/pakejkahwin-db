@@ -4264,6 +4264,192 @@
         { "name": "website", "link": "" },
         { "name": "facebook", "link": "" }
       ]
+    },
+    {
+      "id": "YZeGJ0",
+      "name": "The Gabion Garden Hall",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/LzJetxchRCOVeeapnQlH_mbww28UfC3z5wY9i.webp?id=EqNvj4&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkVxTnZqNCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODMzOTA2M30.oajK9wT2thiS7TqoJBhN9y_AoEYYDgWLCv__rLmOVWo&signature=939dc1a2afeeea52a232a9580e2cb99ceaafd4a278208fdd257b301633efe288",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/kampungpengantin/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60165558035" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/CU1nFRnLSaVGf7B5A" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://linktr.ee/KAMPUNGPENGANTIN" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "0EGeEB",
+      "name": "Megaview Banquet Hall",
+      "location": { "district": "Kuala Lumpur", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/Screenshot-2023-10-27-at-1.01.24-AM.png?id=rDkJA5&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InJEa0pBNSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODMzOTc3M30.cgyC4vQa6rw_XOlPC4t_HJrWZ4bshbyRNHffMJxQ3Tw&signature=6ebfd1d60780886a8858fea4c0bc06fbb3b03dcf334953faaa9d762916ffaf0d",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/kltowermegaview/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60133938506" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/DZioN89tsB4617AQ7" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://www.menarakl.com.my/functions/event-venue/megaview-banquet-hall/weddings/d-kayangan-malay-wedding"
+        },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "blgWG0",
+      "name": "Magica Events @ Tiffany Hall",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/329227602_700408251866559_6352470579996179476_n.jpg?id=1WpNMb&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFXcE5NYiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODM0MDE3Mn0.5WjNDgecqBvMNggSsTGcs1ulxz0kdG7VdTu5w-f6HFE&signature=515ff37d8034a49b295eec73876d31d6c7a6d0f3f6d218096279739584fdba64",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/magica.avenue.subang/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126787934" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/DCRvvYSvXRsQ1QuR8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "GrkRNo",
+      "name": "Magica Events Cheras Hall",
+      "location": { "district": "Cheras", "state": "WP Kuala Lumpur" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/288501831_5236149486479492_2303544395483095348_n.jpg?id=WJjKpe&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldKaktwZSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODM0MDQ4M30.EwQC9wLu0c4lpSJnckpb3zLfdz3009IsctU_L9ZCFYw&signature=ed13261632caf763d968f7fe72382689929ba3b63cae612926adc67071affe8a",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/magica.cheras.kl/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126780186" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/K49roBgVkrAwcnR57" },
+        { "name": "tiktok", "link": "" },
+        {
+          "name": "website",
+          "link": "https://magicaevents.mystrikingly.com/cheras"
+        },
+        { "name": "facebook", "link": "" }
+      ]
+    },
+    {
+      "id": "9dxQ74",
+      "name": "Magica Hall Plaza Alam Sentral",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/333550555_3430134460578155_6279887922643896850_n.jpg?id=GeQqXL&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdlUXFYTCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODM0MDY2N30.5LpUs9uXAzi9Hu_W9MzdYKRgTjsn_lCDFzda6R1inlo&signature=fc576249ae7bf2b233689e7f9497c76d64224b96adb808c77e0e253845388bad",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/magica.plazaalamsentral/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60126787938" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/yVrZwoQB4uf8kmFa8" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/magicasubang/" }
+      ]
+    },
+    {
+      "id": "Rz2PzQ",
+      "name": "Magica Hall @ Space U8",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/333731204_695580808992110_4188635290722983703_n.jpg?id=vXdJdD&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InZYZEpkRCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODM0MDc2MX0.e83mtCJHcl_MQGc-Kyaz_FwTqHZXgAdJ-7X_kycq3PI&signature=144511fcaf7b95ef8eb6a501a8336d792e1519c6220a7e86e5335e3df7258ce4",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/magica.spaceu8/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60142548533" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/9sNmsEQuzCzMn3Ds5" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/magicasubang/" }
+      ]
+    },
+    {
+      "id": "EPAWbr",
+      "name": "Magica Monterez Hall",
+      "location": { "district": "Shah Alam", "state": "Selangor" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/334200425_593073049365157_7912219229729631542_n.jpg?id=2jDlD9&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqRGxEOSIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODM0MDg4Nn0.E1kAt1YkufAW4Y0kSSNPXNb9lEw2Kv2qpSuHv6vKeB0&signature=d7ccd05e18bae0da38eb2d5cc91ed96054f01e9f1e035776041ce7dd00664359",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/magica.monterez/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60162435857" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/xGQZ4YEzRUX9xM1h9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/magicasubang/" }
+      ]
+    },
+    {
+      "id": "vNgYKv",
+      "name": "Magica Penang",
+      "location": { "district": "Perai", "state": "Pulau Pinang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/297811894_433080878860724_4500938722075490801_n.jpg?id=OQobkR&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9Rb2JrUiIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODM0MTAyMH0.hEmmz4ajih_LdlLIsfuNaE_Vhko8lauFgsY9mRQnSIE&signature=bbd608dcbc6cb1de5b63eea4b1a1aad97c06828969e8496a958f158b52ee85c8",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/magicapenang/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/60102946988" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/YWNTG7d1Aj5XN8Bd9" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        {
+          "name": "facebook",
+          "link": "https://www.facebook.com/profile.php?id=100086299766625"
+        }
+      ]
+    },
+    {
+      "id": "5drxDP",
+      "name": "The Empire Hall",
+      "location": { "district": "Bukit Mertajam", "state": "Pulau Pinang" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/301142134_462426199230528_8056321447819245032_n.jpg?id=2jDlRL&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJqRGxSTCIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODM0MTE2NX0.Er9pf1uBgrYvZIJP8DUIeU0F9oC_ZKQYePzSWeteY2Y&signature=680dd50a1f3bd8e2f93c5c81cda43bf6ae7dc392058e5f513c301a9be2f0c3e4",
+      "socials": [
+        {
+          "name": "instagram",
+          "link": "https://www.instagram.com/dewan_empire/"
+        },
+        { "name": "whatsapp", "link": "https://wa.me/601163291577" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/Sj1u89iFeE6HjFwt6" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "https://theempirehall.business.site/" },
+        { "name": "facebook", "link": "https://www.facebook.com/Dewanpenang/" }
+      ]
+    },
+    {
+      "id": "QAjVgG",
+      "name": "Dewan Harmoni",
+      "location": { "district": "Kota Bharu", "state": "Kelantan" },
+      "typeId": 1,
+      "image": "https://storage.tally.so/private/273864010_6937183573022318_5594155973763572610_n.jpg?id=xVlRBo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InhWbFJCbyIsImZvcm1JZCI6Im5yYXhsTSIsImlhdCI6MTY5ODM0MTQ4NH0.Rkq7BKPGE99A7wbO_P4AqjCm_XRhOuzvoS1nMMtFni4&signature=c17aed0248d1d76cf33afd9a1499db35e6c6350781d3b22aaff6f682fa853689",
+      "socials": [
+        { "name": "instagram", "link": "" },
+        { "name": "whatsapp", "link": "https://wa.me/60189063991" },
+        { "name": "maps", "link": "https://maps.app.goo.gl/gVRCx9dc6t7jedbJ7" },
+        { "name": "tiktok", "link": "" },
+        { "name": "website", "link": "" },
+        { "name": "facebook", "link": "https://www.facebook.com/srismartentp/" }
+      ]
     }
   ]
 }
